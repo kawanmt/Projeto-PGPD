@@ -97,6 +97,12 @@ independentemente do número de threads.
 - Versão local com os gráficos embutidos: `docs/Relatorio-PGPD.html` (abrir no navegador; imprime em PDF)
 - Log completo da execução do benchmark: `benchmark-log.txt`
 
+## Apresentação e estudo para a defesa
+
+- Slides: `docs/Apresentacao-PGPD.pptx` (17 slides, com anotações do orador). Para abrir no Google Slides, arraste o arquivo para o Google Drive e abra com Apresentações Google.
+- Roteiro: [Roteiro da Apresentação PGPD](https://docs.google.com/document/d/1Fg2-g7g-Pdzyvnm-CXZ2FCC1rfH_S7wsLguajCaRrZo/edit)
+- Explicação detalhada do código: [Guia do Projeto PGPD](https://docs.google.com/document/d/13H5XZ8vEOqhzbYRJqcmnysGe8kVBtYEPYcuzyahWRJI/edit)
+
 ## Principais resultados (Ryzen 5 5600GT, 6 núcleos / 12 CPUs lógicas)
 
 | 500 milhões de transações, todas as análises | Tempo | Speedup | Eficiência |
