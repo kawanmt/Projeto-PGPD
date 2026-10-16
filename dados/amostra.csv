@@ -1,0 +1,1001 @@
+﻿id;cliente;data;hora;valor;categoria;tipo;cidade;estado
+1;C026250;2025-05-11;14:00;868,70;Educação;PIX;Porto Alegre;RS
+2;C012295;2025-12-12;17:00;5628,77;Eletrônicos;Crédito;Campo Grande;MS
+3;C096166;2025-06-16;20:00;55,03;Transporte;PIX;São Paulo;SP
+4;C000181;2025-02-03;12:00;20,19;Transporte;PIX;Campo Grande;MS
+5;C000045;2025-11-20;21:00;117,02;Alimentação;Débito;Porto Alegre;RS
+6;C000003;2025-05-12;11:00;105,68;Alimentação;PIX;São Paulo;SP
+7;C489317;2025-06-29;14:00;34,95;Transporte;PIX;Curitiba;PR
+8;C000515;2025-08-23;20:00;351,61;Lazer;PIX;São Paulo;SP
+9;C000001;2025-06-03;15:00;772,38;Moradia;Crédito;Maceió;AL
+10;C000127;2025-11-29;21:00;993,63;Eletrônicos;Crédito;Macapá;AP
+11;C000040;2025-06-26;01:00;33,47;Transporte;PIX;Manaus;AM
+12;C000179;2025-03-12;12:00;70,37;Vestuário;Débito;Belo Horizonte;MG
+13;C000001;2025-08-21;14:00;65,57;Transporte;PIX;São Paulo;SP
+14;C000015;2025-11-18;18:00;80,80;Transporte;PIX;Brasília;DF
+15;C000179;2025-08-26;10:00;1994,64;Moradia;Boleto;Joinville;SC
+16;C000010;2025-10-06;15:00;1110,94;Eletrônicos;PIX;Caxias do Sul;RS
+17;C000005;2025-06-16;18:00;101,87;Saúde;Crédito;Ribeirão Preto;SP
+18;C046645;2025-02-08;15:00;30,41;Transporte;Débito;São Paulo;SP
+19;C000019;2025-01-22;18:00;214,60;Vestuário;PIX;Belo Horizonte;MG
+20;C001419;2025-06-12;18:00;142,44;Alimentação;PIX;Feira de Santana;BA
+21;C045136;2025-04-02;14:00;54,58;Alimentação;Boleto;Joinville;SC
+22;C000079;2025-01-10;11:00;50,15;Transporte;Débito;Maceió;AL
+23;C000004;2025-11-21;15:00;11000,00;Alimentação;PIX;São Paulo;SP
+24;C000036;2025-02-17;19:00;176,96;Vestuário;Crédito;Belém;PA
+25;C021571;2025-03-23;18:00;91,33;Alimentação;Crédito;São Paulo;SP
+26;C013561;2025-10-19;20:00;114,47;Transporte;Boleto;Vila Velha;ES
+27;C000027;2025-04-08;14:00;122,19;Alimentação;Débito;Rio de Janeiro;RJ
+28;C000027;2025-01-12;14:00;227,18;Vestuário;Débito;Rio de Janeiro;RJ
+29;C000010;2025-03-10;11:00;76,30;Alimentação;Crédito;São Paulo;SP
+30;C000005;2025-06-18;18:00;209,08;Vestuário;PIX;Brasília;DF
+31;C000002;2025-02-01;18:00;36,26;Lazer;Crédito;Brasília;DF
+32;C002208;2025-05-19;13:00;50,16;Alimentação;Débito;Guarulhos;SP
+33;C000068;2025-08-11;12:00;172,06;Lazer;Débito;Joinville;SC
+34;C000061;2025-11-26;20:00;250,36;Educação;PIX;Ribeirão Preto;SP
+35;C054419;2025-06-21;11:00;107,89;Transporte;PIX;São Paulo;SP
+36;C020921;2025-08-25;16:00;88,95;Vestuário;PIX;Fortaleza;CE
+37;C000001;2025-05-18;06:00;25,91;Alimentação;Crédito;Salvador;BA
+38;C000002;2025-09-22;18:00;84,65;Alimentação;PIX;São Paulo;SP
+39;C000021;2025-01-12;17:00;12,15;Alimentação;Boleto;Campinas;SP
+40;C000006;2025-03-06;19:00;58,70;Alimentação;Débito;Manaus;AM
+41;C000365;2025-05-03;20:00;520,69;Saúde;PIX;Rio de Janeiro;RJ
+42;C100600;2025-05-13;11:00;139,67;Alimentação;Crédito;Belém;PA
+43;C000017;2025-09-01;18:00;145,27;Lazer;Crédito;Teresina;PI
+44;C000136;2025-03-14;21:00;541,79;Educação;Débito;São Paulo;SP
+45;C001575;2025-08-31;10:00;30,39;Transporte;Débito;Guarulhos;SP
+46;C000006;2025-10-31;10:00;59,81;Vestuário;PIX;São Luís;MA
+47;C000005;2025-02-24;10:00;138,25;Educação;PIX;Rio de Janeiro;RJ
+48;C000442;2025-03-24;20:00;117,04;Saúde;Débito;Brasília;DF
+49;C061206;2025-11-21;15:00;67,00;Lazer;Boleto;Rio de Janeiro;RJ
+50;C000005;2025-02-27;10:00;108,67;Lazer;PIX;Fortaleza;CE
+51;C023014;2025-11-23;10:00;1055,12;Eletrônicos;PIX;Maceió;AL
+52;C000026;2025-08-26;13:00;28,13;Transporte;Crédito;São Paulo;SP
+53;C000238;2025-06-23;11:00;2175,18;Eletrônicos;PIX;Fortaleza;CE
+54;C000004;2025-11-16;16:00;2112,85;Eletrônicos;Boleto;João Pessoa;PB
+55;C009270;2025-08-12;12:00;924,54;Eletrônicos;Crédito;Brasília;DF
+56;C000119;2025-10-12;20:00;21,20;Transporte;Crédito;Recife;PE
+57;C000171;2025-01-07;18:00;17,67;Transporte;PIX;Manaus;AM
+58;C176698;2025-10-04;12:00;172,15;Vestuário;PIX;São Paulo;SP
+59;C003263;2025-09-16;20:00;934,75;Eletrônicos;PIX;Curitiba;PR
+60;C000163;2025-09-23;11:00;211,27;Lazer;PIX;São Paulo;SP
+61;C032697;2025-04-12;16:00;31,51;Alimentação;Boleto;Salvador;BA
+62;C000002;2025-01-05;13:00;791,49;Lazer;Crédito;Rio de Janeiro;RJ
+63;C000018;2025-08-24;21:00;47,09;Transporte;Boleto;Brasília;DF
+64;C000001;2025-05-21;18:00;1461,29;Lazer;PIX;São Luís;MA
+65;C004958;2025-06-04;07:00;136,68;Saúde;PIX;Salvador;BA
+66;C000006;2025-10-15;19:00;454,40;Educação;PIX;Manaus;AM
+67;C000006;2025-03-17;21:00;20,82;Alimentação;Débito;Vitória;ES
+68;C000002;2025-07-18;03:00;494,22;Educação;Débito;Curitiba;PR
+69;C000258;2025-08-31;10:00;144,92;Lazer;PIX;São Paulo;SP
+70;C000007;2025-05-05;20:00;53,88;Transporte;Crédito;Belo Horizonte;MG
+71;C000004;2025-11-09;11:00;102,39;Vestuário;PIX;Manaus;AM
+72;C000037;2025-05-16;12:00;137,79;Alimentação;PIX;Rio de Janeiro;RJ
+73;C000008;2025-06-29;17:00;354,13;Saúde;Débito;São Paulo;SP
+74;C000015;2025-05-23;23:00;89,50;Alimentação;Débito;Salvador;BA
+75;C000011;2025-09-21;23:00;152,37;Lazer;PIX;Brasília;DF
+76;C163746;2025-06-06;14:00;19,03;Transporte;PIX;João Pessoa;PB
+77;C054318;2025-03-20;20:00;34,63;Transporte;Boleto;Porto Alegre;RS
+78;C000176;2025-05-19;14:00;54,24;Saúde;Crédito;Joinville;SC
+79;C000038;2025-11-22;11:00;51,14;Lazer;PIX;Natal;RN
+80;C000008;2025-11-02;13:00;46,29;Transporte;Crédito;Londrina;PR
+81;C000081;2025-12-18;13:00;964,02;Educação;Crédito;São Gonçalo;RJ
+82;C000001;2025-11-16;18:00;157,00;Saúde;PIX;Salvador;BA
+83;C066253;2025-05-03;13:00;122,04;Saúde;Crédito;Campinas;SP
+84;C000094;2025-04-19;17:00;35,23;Alimentação;PIX;São Paulo;SP
+85;C000064;2025-04-16;16:00;63,42;Alimentação;PIX;Rio de Janeiro;RJ
+86;C170796;2025-12-10;12:00;37,21;Transporte;PIX;Brasília;DF
+87;C000001;2025-02-10;13:00;2708,96;Moradia;PIX;Recife;PE
+88;C000034;2025-11-15;19:00;226,21;Alimentação;PIX;Rio de Janeiro;RJ
+89;C000022;2025-07-12;23:00;445,33;Educação;PIX;Rio de Janeiro;RJ
+90;C000145;2025-07-05;19:00;68,58;Alimentação;PIX;Florianópolis;SC
+91;C000091;2025-08-14;19:00;19,19;Saúde;PIX;Natal;RN
+92;C000056;2025-10-28;11:00;79,48;Alimentação;Crédito;Uberlândia;MG
+93;C000002;2025-08-09;11:00;55,32;Alimentação;Débito;Belém;PA
+94;C447600;2025-01-05;18:00;1499,28;Moradia;PIX;Recife;PE
+95;C000005;2025-12-05;00:00;70,73;Alimentação;Crédito;Ribeirão Preto;SP
+96;C000168;2025-09-10;11:00;253,89;Saúde;Crédito;Brasília;DF
+97;C000005;2025-03-05;20:00;1090,88;Moradia;Crédito;Guarulhos;SP
+98;C020201;2025-10-19;12:00;187,65;Vestuário;Boleto;Cuiabá;MT
+99;C001855;2025-01-23;09:00;179,59;Saúde;Crédito;Curitiba;PR
+100;C026892;2025-02-27;13:00;78,43;Lazer;Débito;São Paulo;SP
+101;C005554;2025-11-11;13:00;133,24;Vestuário;PIX;Natal;RN
+102;C199889;2025-04-13;21:00;374,55;Lazer;PIX;São Paulo;SP
+103;C000001;2025-08-11;15:00;134,12;Saúde;Crédito;Aracaju;SE
+104;C001609;2025-07-02;20:00;346,91;Eletrônicos;Crédito;Rio Branco;AC
+105;C000508;2025-10-18;11:00;56,19;Transporte;Débito;Brasília;DF
+106;C000007;2025-07-19;18:00;31,09;Transporte;Boleto;João Pessoa;PB
+107;C077358;2025-04-27;16:00;626,50;Saúde;Crédito;Teresina;PI
+108;C000305;2025-11-25;12:00;3566,77;Eletrônicos;PIX;Curitiba;PR
+109;C000321;2025-02-01;20:00;152,83;Transporte;Crédito;São Paulo;SP
+110;C000007;2025-07-21;18:00;2810,30;Eletrônicos;Débito;São Paulo;SP
+111;C000003;2025-08-05;12:00;65,65;Transporte;PIX;Belo Horizonte;MG
+112;C001473;2025-01-29;18:00;2025,96;Eletrônicos;PIX;São Paulo;SP
+113;C000003;2025-02-15;17:00;10,05;Transporte;PIX;Brasília;DF
+114;C000006;2025-11-11;18:00;2041,32;Eletrônicos;PIX;Salvador;BA
+115;C000009;2025-11-21;18:00;35,52;Alimentação;PIX;Rio de Janeiro;RJ
+116;C000036;2025-02-26;19:00;37,59;Lazer;Crédito;Rio de Janeiro;RJ
+117;C000145;2025-11-30;18:00;19,32;Alimentação;PIX;Belém;PA
+118;C000003;2025-01-30;12:00;2789,93;Eletrônicos;Débito;Salvador;BA
+119;C000005;2025-11-16;11:00;46,63;Alimentação;PIX;Ribeirão Preto;SP
+120;C019434;2025-05-03;16:00;72,17;Transporte;Boleto;Teresina;PI
+121;C000070;2025-01-10;11:00;152,05;Saúde;Débito;Fortaleza;CE
+122;C021649;2025-03-10;11:00;700,78;Educação;Débito;Porto Alegre;RS
+123;C000195;2025-11-04;11:00;77,87;Alimentação;Crédito;São Paulo;SP
+124;C000001;2025-08-31;21:00;404,22;Moradia;Crédito;Fortaleza;CE
+125;C000396;2025-04-13;00:00;45,33;Alimentação;Crédito;Ribeirão Preto;SP
+126;C002603;2025-12-20;14:00;1488,49;Moradia;PIX;Manaus;AM
+127;C001285;2025-01-18;20:00;24,71;Alimentação;Boleto;Salvador;BA
+128;C000106;2025-11-09;13:00;495,36;Eletrônicos;PIX;Rio Branco;AC
+129;C000006;2025-11-10;12:00;307,22;Alimentação;PIX;Porto Alegre;RS
+130;C357737;2025-08-26;10:00;56,89;Vestuário;Débito;Rio de Janeiro;RJ
+131;C000002;2025-09-14;12:00;49,54;Alimentação;Boleto;Belém;PA
+132;C001731;2025-06-30;17:00;65,08;Transporte;Débito;São Gonçalo;RJ
+133;C004388;2025-12-01;12:00;281,86;Eletrônicos;Débito;Uberlândia;MG
+134;C023391;2025-06-09;11:00;3144,40;Eletrônicos;Boleto;Salvador;BA
+135;C001778;2025-01-20;09:00;565,16;Lazer;Crédito;Maceió;AL
+136;C087285;2025-11-22;12:00;51,15;Saúde;Débito;Belém;PA
+137;C032973;2025-07-25;09:00;21,99;Alimentação;Débito;Cuiabá;MT
+138;C004610;2025-09-25;12:00;32,56;Transporte;PIX;Recife;PE
+139;C250636;2025-08-27;21:00;52,40;Alimentação;Débito;Fortaleza;CE
+140;C007093;2025-07-27;11:00;45,59;Alimentação;PIX;Manaus;AM
+141;C000006;2025-06-22;08:00;242,49;Saúde;Boleto;São Gonçalo;RJ
+142;C001387;2025-04-02;22:00;167,54;Transporte;PIX;São Paulo;SP
+143;C000007;2025-12-11;16:00;29,33;Transporte;Boleto;Belo Horizonte;MG
+144;C000001;2025-12-16;18:00;53,25;Alimentação;PIX;Belo Horizonte;MG
+145;C000001;2025-03-27;19:00;2644,13;Eletrônicos;Crédito;Porto Alegre;RS
+146;C000001;2025-02-23;07:00;36,36;Saúde;Crédito;Ribeirão Preto;SP
+147;C008218;2025-05-06;13:00;28,97;Transporte;Crédito;Belo Horizonte;MG
+148;C000002;2025-08-16;21:00;2574,44;Moradia;PIX;Rio de Janeiro;RJ
+149;C000005;2025-12-17;13:00;538,37;Educação;PIX;Uberlândia;MG
+150;C000055;2025-11-05;10:00;1863,55;Eletrônicos;PIX;Teresina;PI
+151;C000604;2025-09-29;13:00;28,30;Transporte;PIX;Uberlândia;MG
+152;C000132;2025-02-17;20:00;35,98;Transporte;Débito;Rio de Janeiro;RJ
+153;C000007;2025-09-14;15:00;190,82;Transporte;Débito;Belo Horizonte;MG
+154;C005232;2025-08-06;14:00;167,49;Saúde;PIX;Brasília;DF
+155;C003140;2025-08-05;10:00;207,04;Saúde;Débito;Rio de Janeiro;RJ
+156;C000002;2025-08-19;22:00;39,01;Lazer;Débito;Salvador;BA
+157;C285824;2025-12-23;17:00;29,46;Lazer;Débito;Salvador;BA
+158;C037066;2025-04-11;13:00;1127,44;Moradia;Crédito;Rio de Janeiro;RJ
+159;C000860;2025-08-08;08:00;75,49;Alimentação;PIX;Goiânia;GO
+160;C000055;2025-12-14;12:00;124,66;Alimentação;Débito;São Paulo;SP
+161;C114415;2025-12-26;19:00;25,23;Transporte;PIX;São Paulo;SP
+162;C000001;2025-09-15;12:00;21,66;Transporte;Débito;São Paulo;SP
+163;C000004;2025-12-27;19:00;14,46;Alimentação;Crédito;Teresina;PI
+164;C000095;2025-06-02;12:00;695,20;Educação;PIX;Brasília;DF
+165;C000003;2025-09-10;18:00;21,10;Alimentação;Boleto;São Paulo;SP
+166;C000008;2025-06-25;23:00;96,99;Eletrônicos;PIX;Belo Horizonte;MG
+167;C000430;2025-02-16;18:00;60,65;Alimentação;Débito;Macapá;AP
+168;C000005;2025-04-24;12:00;165,49;Saúde;PIX;Belo Horizonte;MG
+169;C005282;2025-07-01;18:00;426,98;Eletrônicos;PIX;Rio de Janeiro;RJ
+170;C000001;2025-06-08;09:00;173,43;Lazer;Crédito;São Paulo;SP
+171;C000097;2025-03-03;18:00;732,35;Vestuário;PIX;Caxias do Sul;RS
+172;C000588;2025-05-28;14:00;57,49;Alimentação;Crédito;Feira de Santana;BA
+173;C100899;2025-05-10;11:00;20,57;Transporte;Crédito;Manaus;AM
+174;C001112;2025-07-11;14:00;72,94;Alimentação;Crédito;Rio de Janeiro;RJ
+175;C001143;2025-12-19;20:00;26,46;Transporte;PIX;Brasília;DF
+176;C000001;2025-01-18;19:00;81,16;Saúde;Crédito;Aracaju;SE
+177;C024098;2025-06-30;12:00;51,35;Alimentação;Crédito;Teresina;PI
+178;C202705;2025-11-11;13:00;31,37;Transporte;Débito;Curitiba;PR
+179;C008783;2025-09-16;22:00;140,63;Alimentação;Débito;Rio de Janeiro;RJ
+180;C000027;2025-12-03;18:00;97,94;Alimentação;PIX;Maringá;PR
+181;C007546;2025-09-09;21:00;88,53;Vestuário;Débito;Rio de Janeiro;RJ
+182;C000727;2025-11-28;15:00;51,30;Alimentação;Crédito;Campinas;SP
+183;C038619;2025-03-03;20:00;1414,95;Eletrônicos;Débito;Guarulhos;SP
+184;C097166;2025-12-31;12:00;338,16;Saúde;Débito;Curitiba;PR
+185;C267746;2025-10-30;17:00;358,94;Lazer;Boleto;Porto Alegre;RS
+186;C002904;2025-07-22;14:00;30,85;Transporte;Débito;Salvador;BA
+187;C005160;2025-09-02;13:00;99,52;Lazer;PIX;São Paulo;SP
+188;C000009;2025-09-03;18:00;1263,88;Moradia;Crédito;Belo Horizonte;MG
+189;C000013;2025-08-10;16:00;2509,72;Eletrônicos;Débito;São Paulo;SP
+190;C004994;2025-11-28;19:00;122,75;Alimentação;PIX;Goiânia;GO
+191;C001180;2025-09-11;13:00;3000,00;Lazer;Crédito;João Pessoa;PB
+192;C015465;2025-04-10;18:00;132,57;Alimentação;Débito;São Paulo;SP
+193;C000066;2025-09-24;19:00;21,74;Transporte;Crédito;Goiânia;GO
+194;C000066;2025-10-03;21:00;4221,33;Eletrônicos;PIX;São Paulo;SP
+195;C000537;2025-02-22;19:00;69,51;Lazer;PIX;Rio de Janeiro;RJ
+196;C000001;2025-09-03;17:00;46,24;Alimentação;PIX;Salvador;BA
+197;C000237;2025-04-21;15:00;26,69;Alimentação;Crédito;Belo Horizonte;MG
+198;C000001;2025-02-13;13:00;17,55;Lazer;Débito;Brasília;DF
+199;C000606;2025-12-19;23:00;224,96;Saúde;PIX;Fortaleza;CE
+200;C001504;2025-04-08;17:00;65,15;Alimentação;Crédito;Belém;PA
+201;C003825;2025-03-04;21:00;254,76;Alimentação;Crédito;Curitiba;PR
+202;C000001;2025-04-11;12:00;2528,69;Moradia;Boleto;Rio de Janeiro;RJ
+203;C000011;2025-03-11;12:00;1770,87;Moradia;PIX;São Paulo;SP
+204;C000030;2025-02-21;19:00;377,67;Educação;Boleto;São Paulo;SP
+205;C000020;2025-05-11;18:00;1013,34;Moradia;Crédito;São Gonçalo;RJ
+206;C000050;2025-07-04;16:00;399,83;Educação;Débito;Ribeirão Preto;SP
+207;C001955;2025-09-26;14:00;3396,41;Eletrônicos;Débito;São Paulo;SP
+208;C000001;2025-02-22;18:00;926,03;Moradia;Boleto;Goiânia;GO
+209;C000007;2025-06-23;20:00;37,33;Alimentação;Boleto;Manaus;AM
+210;C000001;2025-05-08;12:00;2848,26;Moradia;PIX;Salvador;BA
+211;C008297;2025-09-28;14:00;425,09;Educação;Crédito;Fortaleza;CE
+212;C000133;2025-02-12;12:00;70,25;Alimentação;Boleto;Rio de Janeiro;RJ
+213;C000008;2025-05-15;14:00;190,68;Alimentação;PIX;Brasília;DF
+214;C000134;2025-02-10;10:00;5091,49;Moradia;Crédito;Belo Horizonte;MG
+215;C000002;2025-03-01;19:00;457,25;Alimentação;Boleto;Campinas;SP
+216;C004735;2025-01-10;12:00;145,10;Lazer;PIX;Rio de Janeiro;RJ
+217;C000003;2025-03-06;12:00;99,49;Alimentação;Débito;Rio de Janeiro;RJ
+218;C000002;2025-02-06;17:00;70,95;Saúde;PIX;Rio de Janeiro;RJ
+219;C000017;2025-03-29;06:00;14,69;Transporte;Boleto;Rio de Janeiro;RJ
+220;C013538;2025-02-04;11:00;45,58;Transporte;Crédito;Maceió;AL
+221;C371538;2025-12-18;14:00;87,55;Saúde;PIX;Aracaju;SE
+222;C001249;2025-11-20;11:00;73,59;Alimentação;Débito;Ribeirão Preto;SP
+223;C002281;2025-06-25;13:00;34,06;Vestuário;Débito;Caxias do Sul;RS
+224;C005514;2025-05-14;17:00;139,11;Saúde;PIX;Goiânia;GO
+225;C000711;2025-12-16;17:00;113,23;Transporte;Débito;Porto Alegre;RS
+226;C000024;2025-04-29;19:00;23,38;Transporte;Crédito;Teresina;PI
+227;C000714;2025-09-21;20:00;190,12;Saúde;Crédito;São Gonçalo;RJ
+228;C000008;2025-07-01;21:00;309,69;Lazer;Crédito;São Gonçalo;RJ
+229;C000319;2025-10-08;22:00;84,09;Vestuário;Débito;Rio de Janeiro;RJ
+230;C002712;2025-06-25;17:00;101,59;Alimentação;Boleto;Curitiba;PR
+231;C000001;2025-08-07;14:00;1817,48;Eletrônicos;Crédito;Recife;PE
+232;C000067;2025-06-24;22:00;20,71;Transporte;Crédito;Fortaleza;CE
+233;C010618;2025-05-17;13:00;420,98;Alimentação;Crédito;Guarulhos;SP
+234;C000009;2025-12-10;21:00;52,84;Alimentação;PIX;João Pessoa;PB
+235;C000575;2025-11-03;19:00;134,10;Alimentação;Crédito;João Pessoa;PB
+236;C000094;2025-12-18;18:00;301,83;Saúde;PIX;Rio de Janeiro;RJ
+237;C000072;2025-12-04;15:00;246,67;Saúde;PIX;São Paulo;SP
+238;C002220;2025-04-12;13:00;26,28;Alimentação;Boleto;Belém;PA
+239;C035179;2025-01-15;20:00;45,74;Transporte;Débito;São Paulo;SP
+240;C002860;2025-12-22;11:00;10415,60;Eletrônicos;Boleto;Curitiba;PR
+241;C412826;2025-01-04;13:00;58,33;Alimentação;Crédito;Macapá;AP
+242;C000004;2025-10-08;23:00;63,57;Alimentação;Crédito;São Paulo;SP
+243;C022909;2025-03-06;11:00;1347,48;Eletrônicos;Débito;Santos;SP
+244;C237568;2025-01-27;23:00;74,27;Alimentação;Débito;São Paulo;SP
+245;C001734;2025-06-15;14:00;506,12;Saúde;Crédito;Salvador;BA
+246;C000004;2025-02-05;13:00;74,50;Alimentação;Crédito;Brasília;DF
+247;C000154;2025-10-11;11:00;27,10;Lazer;Débito;Belo Horizonte;MG
+248;C000004;2025-11-21;19:00;18,25;Transporte;PIX;São Paulo;SP
+249;C000024;2025-09-20;12:00;90,19;Alimentação;PIX;Brasília;DF
+250;C000001;2025-05-02;12:00;371,39;Educação;Crédito;São Paulo;SP
+251;C000005;2025-11-04;17:00;115,20;Lazer;Boleto;São Paulo;SP
+252;C000043;2025-07-21;14:00;1476,50;Moradia;Boleto;São Paulo;SP
+253;C166907;2025-12-24;16:00;17,65;Transporte;Débito;São Paulo;SP
+254;C000052;2025-12-14;13:00;238,15;Vestuário;Boleto;Belém;PA
+255;C001546;2025-09-19;16:00;40,56;Alimentação;Débito;Cuiabá;MT
+256;C000590;2025-07-11;16:00;1162,85;Moradia;PIX;Recife;PE
+257;C009223;2025-12-25;10:00;86,00;Transporte;PIX;Joinville;SC
+258;C000004;2025-04-16;16:00;143,73;Saúde;Crédito;São Paulo;SP
+259;C002743;2025-04-20;10:00;133,54;Lazer;Crédito;São Luís;MA
+260;C000003;2025-01-27;17:00;53,51;Alimentação;Boleto;São Paulo;SP
+261;C000021;2025-05-24;12:00;131,98;Lazer;Crédito;São Paulo;SP
+262;C000038;2025-06-17;16:00;1271,36;Eletrônicos;Débito;Belo Horizonte;MG
+263;C000119;2025-08-21;08:00;95,12;Vestuário;Boleto;Aracaju;SE
+264;C207568;2025-11-12;15:00;1625,04;Moradia;PIX;Curitiba;PR
+265;C011963;2025-01-28;20:00;16,33;Transporte;PIX;Londrina;PR
+266;C000001;2025-01-03;19:00;1744,28;Moradia;Crédito;São Paulo;SP
+267;C000001;2025-10-21;23:00;178,49;Alimentação;Crédito;Brasília;DF
+268;C000002;2025-04-23;20:00;38,85;Transporte;PIX;Goiânia;GO
+269;C001100;2025-03-23;17:00;483,41;Saúde;Crédito;São Paulo;SP
+270;C000027;2025-01-12;15:00;133,87;Alimentação;Débito;Palmas;TO
+271;C000002;2025-10-30;20:00;92,16;Lazer;Crédito;Cuiabá;MT
+272;C000007;2025-10-04;15:00;43,18;Saúde;PIX;Brasília;DF
+273;C000010;2025-12-13;09:00;67,72;Lazer;PIX;Rio de Janeiro;RJ
+274;C013732;2025-04-22;13:00;21,87;Transporte;PIX;Goiânia;GO
+275;C000564;2025-06-09;20:00;78,96;Transporte;PIX;Brasília;DF
+276;C000008;2025-11-05;10:00;282,99;Lazer;PIX;Maceió;AL
+277;C000701;2025-01-03;13:00;91,32;Alimentação;PIX;Campinas;SP
+278;C000003;2025-12-06;18:00;730,68;Educação;PIX;São Paulo;SP
+279;C000006;2025-07-30;05:00;115,80;Alimentação;Boleto;São Paulo;SP
+280;C014372;2025-08-03;14:00;353,33;Vestuário;Crédito;Salvador;BA
+281;C014798;2025-12-14;21:00;102,66;Lazer;Crédito;Teresina;PI
+282;C040330;2025-01-06;15:00;83,47;Saúde;Crédito;Rio de Janeiro;RJ
+283;C000001;2025-07-09;19:00;93,48;Alimentação;PIX;Belém;PA
+284;C000068;2025-10-31;19:00;20,08;Transporte;Crédito;São Gonçalo;RJ
+285;C000082;2025-02-21;22:00;307,93;Saúde;PIX;Curitiba;PR
+286;C024156;2025-05-07;12:00;26,91;Vestuário;Crédito;Manaus;AM
+287;C000001;2025-10-21;11:00;1151,73;Lazer;Débito;Londrina;PR
+288;C178483;2025-11-27;08:00;32,06;Transporte;Crédito;Cuiabá;MT
+289;C000001;2025-06-19;21:00;119,45;Alimentação;Débito;Campinas;SP
+290;C367197;2025-06-17;23:00;156,96;Alimentação;Crédito;Goiânia;GO
+291;C000038;2025-10-01;20:00;936,42;Moradia;Crédito;Curitiba;PR
+292;C000003;2025-07-25;18:00;140,05;Alimentação;Débito;Belém;PA
+293;C000012;2025-08-29;20:00;16,80;Alimentação;Crédito;São Paulo;SP
+294;C088946;2025-03-23;12:00;20,14;Saúde;Boleto;Rio de Janeiro;RJ
+295;C016746;2025-02-19;14:00;477,49;Lazer;Boleto;São Paulo;SP
+296;C000002;2025-05-26;18:00;29,06;Lazer;PIX;Aracaju;SE
+297;C000466;2025-05-18;15:00;227,14;Vestuário;Crédito;Manaus;AM
+298;C000059;2025-09-29;21:00;90,15;Alimentação;PIX;São Paulo;SP
+299;C000184;2025-09-04;17:00;281,91;Saúde;PIX;Curitiba;PR
+300;C099358;2025-05-07;20:00;418,96;Eletrônicos;Boleto;São Paulo;SP
+301;C000516;2025-08-23;15:00;439,07;Saúde;PIX;São Paulo;SP
+302;C000002;2025-09-17;11:00;302,29;Saúde;PIX;Recife;PE
+303;C047000;2025-09-15;17:00;79,55;Alimentação;PIX;João Pessoa;PB
+304;C464617;2025-08-27;13:00;63,57;Vestuário;Crédito;Florianópolis;SC
+305;C012827;2025-06-16;21:00;1668,75;Moradia;PIX;São Paulo;SP
+306;C000292;2025-08-21;18:00;99,70;Alimentação;Débito;Belo Horizonte;MG
+307;C000003;2025-06-18;22:00;1042,16;Moradia;PIX;Boa Vista;RR
+308;C006741;2025-11-03;14:00;27,90;Alimentação;PIX;Rio de Janeiro;RJ
+309;C000023;2025-01-30;19:00;108,44;Transporte;Crédito;Uberlândia;MG
+310;C000005;2025-02-15;21:00;1920,35;Moradia;Crédito;Belo Horizonte;MG
+311;C000018;2025-12-16;13:00;41,44;Lazer;PIX;Maceió;AL
+312;C000024;2025-09-28;15:00;458,22;Lazer;PIX;Fortaleza;CE
+313;C000039;2025-05-24;18:00;159,35;Vestuário;Boleto;Rio de Janeiro;RJ
+314;C000001;2025-07-19;14:00;28,78;Alimentação;Crédito;Manaus;AM
+315;C000024;2025-07-05;12:00;214,61;Alimentação;Crédito;Brasília;DF
+316;C000003;2025-07-31;21:00;2824,44;Eletrônicos;PIX;João Pessoa;PB
+317;C000057;2025-08-25;15:00;199,93;Educação;PIX;Brasília;DF
+318;C000001;2025-09-25;00:00;47,42;Transporte;Boleto;Londrina;PR
+319;C000080;2025-11-13;13:00;55,61;Transporte;Crédito;Goiânia;GO
+320;C000006;2025-09-23;23:00;87,95;Lazer;PIX;Brasília;DF
+321;C000227;2025-05-31;18:00;74,92;Alimentação;PIX;Maceió;AL
+322;C000001;2025-05-28;16:00;34,57;Alimentação;PIX;Cuiabá;MT
+323;C000001;2025-04-02;18:00;373,26;Eletrônicos;Boleto;São Paulo;SP
+324;C007274;2025-12-20;17:00;990,65;Educação;PIX;São Paulo;SP
+325;C000010;2025-01-14;11:00;45,73;Lazer;PIX;Feira de Santana;BA
+326;C092503;2025-07-16;20:00;16,60;Transporte;Crédito;Ribeirão Preto;SP
+327;C000021;2025-07-11;16:00;12,67;Transporte;Débito;Belém;PA
+328;C004586;2025-12-05;20:00;248,14;Vestuário;PIX;Rio Branco;AC
+329;C003389;2025-09-27;21:00;38,99;Transporte;Débito;Rio de Janeiro;RJ
+330;C000001;2025-03-09;10:00;3172,49;Moradia;PIX;Rio de Janeiro;RJ
+331;C001765;2025-05-13;18:00;125,43;Lazer;Crédito;Belo Horizonte;MG
+332;C000089;2025-12-25;19:00;29,63;Transporte;Boleto;São Paulo;SP
+333;C000004;2025-05-03;18:00;16,82;Transporte;PIX;São Paulo;SP
+334;C000222;2025-05-07;13:00;7,97;Transporte;Crédito;Natal;RN
+335;C000014;2025-08-23;18:00;117,75;Vestuário;Débito;Belo Horizonte;MG
+336;C000001;2025-08-12;18:00;9,34;Transporte;Débito;Manaus;AM
+337;C000158;2025-06-22;16:00;187,96;Lazer;PIX;Rio de Janeiro;RJ
+338;C009905;2025-10-14;11:00;1009,48;Moradia;PIX;Belo Horizonte;MG
+339;C000006;2025-09-27;11:00;56,92;Alimentação;PIX;Manaus;AM
+340;C180759;2025-08-03;18:00;1440,46;Educação;Boleto;Salvador;BA
+341;C000002;2025-06-25;13:00;158,03;Alimentação;PIX;Santos;SP
+342;C066535;2025-08-25;13:00;47,72;Lazer;Débito;Belo Horizonte;MG
+343;C000146;2025-01-22;12:00;18,34;Transporte;Crédito;São Paulo;SP
+344;C001533;2025-01-01;20:00;66,99;Alimentação;PIX;São Paulo;SP
+345;C000313;2025-01-26;18:00;377,53;Lazer;Débito;Feira de Santana;BA
+346;C000054;2025-03-05;17:00;475,46;Saúde;Boleto;Vila Velha;ES
+347;C126414;2025-04-04;11:00;19,04;Alimentação;Crédito;Belo Horizonte;MG
+348;C000906;2025-04-02;22:00;107,21;Lazer;Crédito;São Paulo;SP
+349;C000001;2025-05-24;12:00;63,42;Saúde;PIX;Salvador;BA
+350;C043010;2025-01-15;10:00;33,25;Transporte;PIX;São Paulo;SP
+351;C000137;2025-04-02;16:00;339,29;Eletrônicos;PIX;Aracaju;SE
+352;C000006;2025-01-20;12:00;189,59;Vestuário;Débito;São Paulo;SP
+353;C000002;2025-10-21;20:00;121,69;Alimentação;Crédito;Manaus;AM
+354;C000306;2025-07-18;13:00;72,42;Alimentação;Boleto;São Paulo;SP
+355;C000008;2025-09-22;10:00;16,60;Alimentação;Crédito;Rio de Janeiro;RJ
+356;C000006;2025-05-18;00:00;22,42;Alimentação;Crédito;São Paulo;SP
+357;C000001;2025-04-24;18:00;25,73;Transporte;Crédito;Recife;PE
+358;C000005;2025-05-22;09:00;57,39;Transporte;Crédito;Rio de Janeiro;RJ
+359;C000846;2025-01-18;14:00;46,92;Alimentação;Crédito;Rio de Janeiro;RJ
+360;C097625;2025-10-16;11:00;1043,53;Educação;Boleto;Joinville;SC
+361;C000046;2025-07-27;23:00;1335,60;Eletrônicos;PIX;São Paulo;SP
+362;C001250;2025-01-25;10:00;38,15;Transporte;Boleto;São Paulo;SP
+363;C000001;2025-10-25;10:00;14,76;Transporte;Débito;Belo Horizonte;MG
+364;C003646;2025-06-18;19:00;45,35;Transporte;Crédito;São Paulo;SP
+365;C000009;2025-04-26;18:00;58,84;Transporte;Débito;Curitiba;PR
+366;C000002;2025-09-26;20:00;14,08;Transporte;PIX;Rio de Janeiro;RJ
+367;C031287;2025-08-09;20:00;334,46;Saúde;PIX;Santos;SP
+368;C000393;2025-04-26;17:00;86,99;Alimentação;Débito;Salvador;BA
+369;C076999;2025-06-01;11:00;604,13;Saúde;Boleto;Teresina;PI
+370;C001970;2025-03-10;21:00;719,41;Educação;Débito;Rio de Janeiro;RJ
+371;C000968;2025-09-25;22:00;32,28;Transporte;PIX;Guarulhos;SP
+372;C000003;2025-05-28;18:00;281,82;Eletrônicos;Crédito;Palmas;TO
+373;C002978;2025-08-06;23:00;22,76;Alimentação;Crédito;Rio de Janeiro;RJ
+374;C000004;2025-08-01;18:00;691,49;Vestuário;Boleto;Belém;PA
+375;C000034;2025-06-22;13:00;445,01;Eletrônicos;PIX;Rio de Janeiro;RJ
+376;C000083;2025-12-07;11:00;1573,38;Eletrônicos;PIX;São Paulo;SP
+377;C000005;2025-12-15;15:00;33,61;Lazer;PIX;São Paulo;SP
+378;C000004;2025-09-13;12:00;3938,05;Eletrônicos;Boleto;Brasília;DF
+379;C000159;2025-11-18;11:00;1273,61;Moradia;Crédito;Vila Velha;ES
+380;C000184;2025-04-21;17:00;48,90;Alimentação;PIX;São Paulo;SP
+381;C000195;2025-09-19;20:00;173,32;Transporte;Débito;Belém;PA
+382;C000001;2025-04-29;13:00;220,63;Saúde;PIX;Belém;PA
+383;C001284;2025-09-02;11:00;873,15;Alimentação;Boleto;Rio de Janeiro;RJ
+384;C000011;2025-11-30;23:00;2771,52;Moradia;PIX;Uberlândia;MG
+385;C005319;2025-10-05;21:00;49,47;Transporte;PIX;Rio de Janeiro;RJ
+386;C027010;2025-04-14;21:00;271,29;Vestuário;PIX;Rio de Janeiro;RJ
+387;C001919;2025-01-19;21:00;85,63;Transporte;Crédito;Rio de Janeiro;RJ
+388;C001123;2025-10-28;14:00;20,79;Alimentação;Débito;Campo Grande;MS
+389;C000018;2025-05-03;09:00;867,30;Eletrônicos;Crédito;Manaus;AM
+390;C094080;2025-04-29;21:00;9,20;Alimentação;Crédito;Boa Vista;RR
+391;C000007;2025-08-26;02:00;23,81;Transporte;Boleto;São Paulo;SP
+392;C000002;2025-04-09;17:00;4176,00;Saúde;PIX;Belo Horizonte;MG
+393;C003153;2025-03-29;19:00;435,70;Lazer;Débito;Rio de Janeiro;RJ
+394;C263754;2025-03-16;17:00;105,40;Alimentação;Crédito;Boa Vista;RR
+395;C001123;2025-10-25;21:00;241,49;Alimentação;Boleto;Porto Alegre;RS
+396;C012500;2025-03-21;12:00;82,53;Alimentação;PIX;São Paulo;SP
+397;C000705;2025-11-29;12:00;1537,30;Eletrônicos;PIX;São Paulo;SP
+398;C000002;2025-04-17;20:00;520,11;Saúde;Crédito;Rio de Janeiro;RJ
+399;C000003;2025-10-13;14:00;219,06;Educação;Crédito;Maceió;AL
+400;C000743;2025-03-03;18:00;272,91;Alimentação;Boleto;Ribeirão Preto;SP
+401;C000001;2025-02-27;10:00;161,05;Vestuário;Crédito;Brasília;DF
+402;C000002;2025-09-14;11:00;90,15;Transporte;Crédito;Cuiabá;MT
+403;C000011;2025-11-07;13:00;18,32;Vestuário;PIX;Porto Alegre;RS
+404;C014016;2025-10-02;19:00;90,42;Vestuário;Boleto;São Paulo;SP
+405;C000001;2025-09-28;11:00;17,70;Alimentação;Crédito;Belo Horizonte;MG
+406;C038329;2025-11-12;13:00;201,58;Alimentação;PIX;Salvador;BA
+407;C000005;2025-09-23;09:00;68,29;Alimentação;Débito;Feira de Santana;BA
+408;C003563;2025-01-26;12:00;2768,22;Moradia;PIX;Recife;PE
+409;C000026;2025-02-22;10:00;1760,49;Educação;Débito;Ribeirão Preto;SP
+410;C000019;2025-03-15;19:00;52,47;Alimentação;PIX;Feira de Santana;BA
+411;C000002;2025-09-26;20:00;28,89;Vestuário;Crédito;São Paulo;SP
+412;C001632;2025-10-15;19:00;220,54;Saúde;Crédito;São Paulo;SP
+413;C000022;2025-12-15;10:00;34,06;Transporte;Crédito;Maceió;AL
+414;C000002;2025-07-03;13:00;232,10;Saúde;Boleto;São Paulo;SP
+415;C004942;2025-02-22;21:00;1141,51;Moradia;PIX;São Paulo;SP
+416;C091114;2025-09-10;23:00;101,04;Vestuário;Crédito;Belo Horizonte;MG
+417;C000001;2025-10-08;15:00;1910,50;Moradia;Crédito;Manaus;AM
+418;C099376;2025-03-22;18:00;33,33;Transporte;Crédito;Guarulhos;SP
+419;C000145;2025-04-27;19:00;61,57;Transporte;Crédito;São Gonçalo;RJ
+420;C016001;2025-04-22;17:00;33,88;Alimentação;PIX;Maceió;AL
+421;C000019;2025-09-08;22:00;24,52;Transporte;PIX;Caxias do Sul;RS
+422;C000215;2025-08-30;22:00;448,71;Eletrônicos;PIX;Belém;PA
+423;C000003;2025-02-07;15:00;57,44;Alimentação;PIX;São Paulo;SP
+424;C000337;2025-05-07;09:00;130,55;Alimentação;PIX;São Luís;MA
+425;C000017;2025-06-04;20:00;82,05;Alimentação;PIX;Florianópolis;SC
+426;C005020;2025-09-28;12:00;55,79;Transporte;Crédito;Rio de Janeiro;RJ
+427;C000065;2025-06-12;09:00;842,50;Educação;PIX;São Paulo;SP
+428;C000376;2025-08-30;12:00;103,69;Alimentação;PIX;Fortaleza;CE
+429;C027938;2025-03-07;08:00;1987,25;Moradia;Crédito;Campo Grande;MS
+430;C000002;2025-01-26;13:00;27,13;Alimentação;PIX;Goiânia;GO
+431;C014392;2025-03-22;15:00;30,28;Alimentação;PIX;Cuiabá;MT
+432;C000002;2025-02-01;23:00;271,63;Lazer;PIX;São Paulo;SP
+433;C000033;2025-03-16;12:00;1002,85;Educação;PIX;Goiânia;GO
+434;C000003;2025-10-26;21:00;82,37;Transporte;Crédito;Brasília;DF
+435;C000001;2025-12-11;11:00;64,61;Lazer;Crédito;Recife;PE
+436;C000017;2025-03-01;04:00;31,15;Transporte;PIX;Caxias do Sul;RS
+437;C000002;2025-04-29;22:00;432,39;Alimentação;PIX;São Paulo;SP
+438;C050773;2025-02-15;14:00;140,64;Alimentação;Boleto;São Paulo;SP
+439;C000007;2025-06-20;17:00;207,15;Lazer;PIX;Recife;PE
+440;C001503;2025-09-13;11:00;41,27;Transporte;Boleto;Porto Alegre;RS
+441;C004522;2025-02-12;14:00;31,97;Transporte;Débito;Curitiba;PR
+442;C000030;2025-10-17;11:00;407,39;Saúde;PIX;Rio de Janeiro;RJ
+443;C000137;2025-07-17;18:00;905,01;Alimentação;Crédito;Belo Horizonte;MG
+444;C000618;2025-01-16;12:00;494,71;Saúde;Crédito;São Paulo;SP
+445;C000003;2025-02-08;21:00;342,52;Saúde;PIX;Guarulhos;SP
+446;C000318;2025-04-26;13:00;21,49;Alimentação;PIX;Vila Velha;ES
+447;C000788;2025-12-22;15:00;12,69;Transporte;Crédito;São Paulo;SP
+448;C115663;2025-07-02;11:00;2040,65;Moradia;PIX;Feira de Santana;BA
+449;C000011;2025-12-09;02:00;19,13;Alimentação;Crédito;Belo Horizonte;MG
+450;C001196;2025-04-05;16:00;83,07;Alimentação;Crédito;Rio de Janeiro;RJ
+451;C000582;2025-07-30;21:00;1449,99;Saúde;Boleto;Maceió;AL
+452;C000002;2025-02-24;10:00;67,55;Alimentação;Boleto;São Luís;MA
+453;C033159;2025-06-17;18:00;32,36;Transporte;Boleto;Caxias do Sul;RS
+454;C000075;2025-06-07;18:00;28,64;Alimentação;Débito;Brasília;DF
+455;C294441;2025-06-07;22:00;47,84;Lazer;Crédito;Curitiba;PR
+456;C000063;2025-04-25;12:00;56,82;Transporte;PIX;Teresina;PI
+457;C000009;2025-01-14;20:00;41,07;Alimentação;Crédito;Salvador;BA
+458;C005481;2025-10-15;19:00;1375,24;Moradia;Débito;Vila Velha;ES
+459;C007528;2025-11-10;00:00;165,20;Vestuário;Débito;Rio de Janeiro;RJ
+460;C001210;2025-04-01;12:00;862,47;Eletrônicos;PIX;Brasília;DF
+461;C000002;2025-03-09;11:00;35,75;Transporte;Débito;São Paulo;SP
+462;C000014;2025-12-28;11:00;213,97;Vestuário;Débito;Curitiba;PR
+463;C000138;2025-01-20;14:00;29,29;Transporte;Boleto;Guarulhos;SP
+464;C000113;2025-03-05;14:00;73,20;Alimentação;Débito;Rio de Janeiro;RJ
+465;C000001;2025-11-12;18:00;31,32;Alimentação;Crédito;São Paulo;SP
+466;C008262;2025-12-18;17:00;79,29;Vestuário;Crédito;Guarulhos;SP
+467;C000006;2025-05-27;21:00;84,72;Vestuário;Débito;Manaus;AM
+468;C003530;2025-11-01;00:00;155,72;Alimentação;Débito;Rio de Janeiro;RJ
+469;C000002;2025-02-23;18:00;15,19;Transporte;PIX;Porto Alegre;RS
+470;C002857;2025-05-24;19:00;19,80;Alimentação;PIX;Belo Horizonte;MG
+471;C000011;2025-02-08;17:00;205,50;Vestuário;PIX;Santos;SP
+472;C002223;2025-11-22;12:00;212,59;Saúde;Boleto;Rio de Janeiro;RJ
+473;C430679;2025-11-06;15:00;104,28;Lazer;Boleto;Maceió;AL
+474;C046461;2025-07-18;22:00;149,78;Alimentação;Crédito;Porto Alegre;RS
+475;C000010;2025-08-27;13:00;24,12;Transporte;Crédito;Palmas;TO
+476;C000003;2025-08-15;11:00;1526,85;Moradia;PIX;Fortaleza;CE
+477;C005531;2025-04-11;17:00;58,73;Alimentação;PIX;Belo Horizonte;MG
+478;C000613;2025-04-19;16:00;173,48;Alimentação;PIX;Belém;PA
+479;C000214;2025-03-22;14:00;37,66;Alimentação;Crédito;Feira de Santana;BA
+480;C000022;2025-07-08;18:00;81,10;Saúde;Débito;São Paulo;SP
+481;C000189;2025-09-09;12:00;205,78;Educação;Boleto;Fortaleza;CE
+482;C024772;2025-11-03;20:00;87,67;Transporte;PIX;São Paulo;SP
+483;C000002;2025-02-10;20:00;30,20;Alimentação;Crédito;Londrina;PR
+484;C033486;2025-07-19;18:00;15,85;Alimentação;PIX;Salvador;BA
+485;C000005;2025-01-16;13:00;250,30;Saúde;Crédito;São Paulo;SP
+486;C003282;2025-11-04;14:00;2188,15;Moradia;PIX;Salvador;BA
+487;C000011;2025-09-15;12:00;604,68;Lazer;Débito;São Paulo;SP
+488;C000014;2025-12-28;12:00;192,71;Saúde;Boleto;Fortaleza;CE
+489;C000001;2025-02-24;14:00;129,45;Alimentação;Débito;Belém;PA
+490;C000001;2025-07-13;11:00;50,17;Lazer;Débito;Goiânia;GO
+491;C017393;2025-02-24;09:00;97,76;Alimentação;Débito;Rio de Janeiro;RJ
+492;C000060;2025-11-02;13:00;45,14;Alimentação;PIX;Campinas;SP
+493;C011348;2025-04-24;14:00;2790,86;Eletrônicos;PIX;Maringá;PR
+494;C000005;2025-01-29;15:00;91,07;Saúde;PIX;São Paulo;SP
+495;C000001;2025-10-21;11:00;163,04;Vestuário;PIX;Vila Velha;ES
+496;C050553;2025-05-15;11:00;3233,32;Moradia;PIX;Rio de Janeiro;RJ
+497;C000001;2025-10-10;12:00;80,30;Lazer;Crédito;São Paulo;SP
+498;C000073;2025-12-09;19:00;43,86;Transporte;PIX;Uberlândia;MG
+499;C000001;2025-07-29;15:00;17,39;Transporte;Boleto;Campo Grande;MS
+500;C000635;2025-07-23;19:00;408,45;Lazer;PIX;Rio de Janeiro;RJ
+501;C328941;2025-11-30;19:00;764,62;Eletrônicos;Crédito;São Paulo;SP
+502;C096025;2025-11-27;09:00;125,98;Saúde;Crédito;Manaus;AM
+503;C000007;2025-10-10;16:00;821,17;Educação;PIX;São Paulo;SP
+504;C000433;2025-03-07;12:00;2137,49;Eletrônicos;Crédito;Goiânia;GO
+505;C176608;2025-08-11;13:00;1138,56;Eletrônicos;PIX;Brasília;DF
+506;C000001;2025-08-25;18:00;40,24;Lazer;Crédito;São Paulo;SP
+507;C000002;2025-10-08;22:00;43,41;Alimentação;Boleto;Rio de Janeiro;RJ
+508;C011626;2025-05-31;12:00;71,73;Alimentação;PIX;São Paulo;SP
+509;C020496;2025-06-21;16:00;262,69;Vestuário;PIX;Belém;PA
+510;C021532;2025-07-16;13:00;37,31;Alimentação;Débito;Uberlândia;MG
+511;C000055;2025-03-25;11:00;562,88;Lazer;Débito;Belém;PA
+512;C000004;2025-11-17;12:00;99,37;Alimentação;Débito;Salvador;BA
+513;C000001;2025-04-30;13:00;34,13;Transporte;PIX;Fortaleza;CE
+514;C002022;2025-12-14;13:00;187,79;Alimentação;Crédito;Campinas;SP
+515;C000008;2025-03-27;21:00;36,81;Alimentação;PIX;Goiânia;GO
+516;C000002;2025-10-27;01:00;74,47;Vestuário;Débito;Fortaleza;CE
+517;C135175;2025-12-28;17:00;179,94;Saúde;Boleto;Brasília;DF
+518;C000018;2025-01-02;18:00;12,83;Transporte;Crédito;São Paulo;SP
+519;C000059;2025-11-16;18:00;29,73;Alimentação;Boleto;Boa Vista;RR
+520;C000219;2025-08-25;13:00;62,39;Vestuário;Débito;Feira de Santana;BA
+521;C000008;2025-08-08;17:00;109,63;Lazer;Crédito;Recife;PE
+522;C000001;2025-05-26;10:00;1912,76;Eletrônicos;PIX;Recife;PE
+523;C000050;2025-02-22;18:00;144,58;Alimentação;Boleto;Salvador;BA
+524;C032355;2025-11-02;14:00;2370,65;Moradia;PIX;Belo Horizonte;MG
+525;C265181;2025-12-14;18:00;2269,10;Moradia;PIX;São Gonçalo;RJ
+526;C000001;2025-10-30;12:00;150,43;Vestuário;Crédito;Salvador;BA
+527;C000004;2025-05-10;10:00;36,18;Alimentação;Crédito;Brasília;DF
+528;C000002;2025-02-26;11:00;73,66;Alimentação;PIX;Belém;PA
+529;C077787;2025-11-30;13:00;40,45;Alimentação;Crédito;Fortaleza;CE
+530;C000007;2025-08-20;13:00;96,02;Alimentação;PIX;São Paulo;SP
+531;C000001;2025-08-11;13:00;35,85;Transporte;Crédito;Fortaleza;CE
+532;C000234;2025-10-16;12:00;2327,03;Moradia;Débito;Londrina;PR
+533;C000007;2025-10-01;13:00;329,81;Saúde;PIX;Maceió;AL
+534;C000040;2025-04-08;11:00;96,65;Transporte;PIX;Rio de Janeiro;RJ
+535;C105668;2025-11-10;17:00;54,53;Alimentação;Boleto;São Paulo;SP
+536;C000005;2025-06-06;10:00;7,45;Transporte;Crédito;Maringá;PR
+537;C001025;2025-12-06;15:00;173,04;Lazer;PIX;Goiânia;GO
+538;C000026;2025-12-10;19:00;49,12;Lazer;Débito;Rio de Janeiro;RJ
+539;C009716;2025-07-16;14:00;268,56;Vestuário;Débito;São Paulo;SP
+540;C000002;2025-02-10;11:00;51,21;Transporte;Débito;São Luís;MA
+541;C032234;2025-06-12;20:00;244,17;Alimentação;Boleto;Rio de Janeiro;RJ
+542;C002878;2025-09-13;10:00;110,76;Alimentação;Crédito;Campo Grande;MS
+543;C000050;2025-06-16;13:00;108,49;Alimentação;Débito;Brasília;DF
+544;C015150;2025-05-01;22:00;10,14;Transporte;PIX;São Paulo;SP
+545;C000324;2025-01-29;18:00;44,47;Transporte;Boleto;São Paulo;SP
+546;C000012;2025-03-25;00:00;43,30;Transporte;Crédito;Manaus;AM
+547;C000043;2025-01-26;18:00;374,38;Alimentação;PIX;Rio de Janeiro;RJ
+548;C047587;2025-09-12;17:00;7,26;Alimentação;Débito;Rio de Janeiro;RJ
+549;C000007;2025-12-20;20:00;57,85;Alimentação;Boleto;Aracaju;SE
+550;C000191;2025-11-12;17:00;16,41;Alimentação;Crédito;Salvador;BA
+551;C083960;2025-04-23;13:00;64,30;Alimentação;PIX;Recife;PE
+552;C000023;2025-03-17;20:00;137,22;Vestuário;PIX;Brasília;DF
+553;C000003;2025-08-07;17:00;140,72;Vestuário;PIX;Campo Grande;MS
+554;C032996;2025-01-18;20:00;931,98;Moradia;Débito;Maceió;AL
+555;C016600;2025-04-29;19:00;721,73;Eletrônicos;Boleto;Porto Alegre;RS
+556;C000042;2025-04-04;13:00;70,96;Alimentação;PIX;São Paulo;SP
+557;C000011;2025-07-08;23:00;64,46;Transporte;Débito;Belo Horizonte;MG
+558;C006463;2025-01-20;15:00;1450,29;Eletrônicos;PIX;Campinas;SP
+559;C000003;2025-06-12;18:00;35,29;Transporte;Débito;Brasília;DF
+560;C000127;2025-10-12;16:00;171,84;Transporte;Crédito;Rio de Janeiro;RJ
+561;C000005;2025-09-23;13:00;47,19;Alimentação;Crédito;Brasília;DF
+562;C001397;2025-11-18;14:00;36,96;Transporte;Crédito;São Paulo;SP
+563;C287419;2025-01-14;14:00;81,40;Transporte;PIX;São Luís;MA
+564;C002688;2025-01-20;12:00;107,02;Transporte;PIX;Belém;PA
+565;C000013;2025-10-09;11:00;155,91;Saúde;Crédito;Rio de Janeiro;RJ
+566;C020220;2025-01-22;21:00;493,60;Saúde;Débito;São Paulo;SP
+567;C000005;2025-03-05;11:00;101,99;Alimentação;PIX;Natal;RN
+568;C000188;2025-03-16;15:00;782,53;Eletrônicos;PIX;São Paulo;SP
+569;C000675;2025-08-15;23:00;537,36;Moradia;Débito;Rio de Janeiro;RJ
+570;C000003;2025-09-03;14:00;317,17;Educação;PIX;Goiânia;GO
+571;C011217;2025-10-04;19:00;20,53;Transporte;PIX;Teresina;PI
+572;C000001;2025-03-31;11:00;9,27;Transporte;PIX;Salvador;BA
+573;C000015;2025-01-20;18:00;357,16;Alimentação;PIX;Brasília;DF
+574;C000024;2025-07-24;09:00;506,75;Educação;Boleto;Maceió;AL
+575;C000001;2025-12-18;20:00;295,07;Vestuário;PIX;Fortaleza;CE
+576;C000004;2025-08-22;12:00;7,10;Alimentação;PIX;São Paulo;SP
+577;C000008;2025-06-02;18:00;26,61;Transporte;Crédito;Brasília;DF
+578;C004497;2025-05-12;11:00;140,59;Lazer;PIX;Fortaleza;CE
+579;C000034;2025-01-08;11:00;116,94;Vestuário;PIX;São Paulo;SP
+580;C000141;2025-08-04;16:00;110,17;Lazer;Débito;Brasília;DF
+581;C000264;2025-10-13;19:00;56,61;Alimentação;Crédito;São Paulo;SP
+582;C073695;2025-02-03;15:00;228,05;Saúde;Boleto;Londrina;PR
+583;C000678;2025-09-15;19:00;22,47;Transporte;PIX;Guarulhos;SP
+584;C000949;2025-08-18;12:00;102,95;Alimentação;Débito;São Paulo;SP
+585;C000012;2025-02-17;13:00;46,66;Lazer;Crédito;São Paulo;SP
+586;C000053;2025-02-16;14:00;528,72;Eletrônicos;Crédito;Recife;PE
+587;C000016;2025-07-07;12:00;63,37;Saúde;Débito;Ribeirão Preto;SP
+588;C000119;2025-06-20;11:00;750,40;Moradia;Crédito;Rio de Janeiro;RJ
+589;C015137;2025-05-06;12:00;75,48;Alimentação;Débito;São Paulo;SP
+590;C074371;2025-09-05;09:00;102,81;Transporte;Débito;São Paulo;SP
+591;C000224;2025-11-09;13:00;207,63;Saúde;PIX;Salvador;BA
+592;C006781;2025-01-15;11:00;40,48;Transporte;Crédito;Brasília;DF
+593;C000001;2025-07-12;16:00;42,17;Alimentação;PIX;São Paulo;SP
+594;C000002;2025-01-09;18:00;47,52;Lazer;PIX;Belém;PA
+595;C012325;2025-10-14;10:00;241,82;Saúde;Crédito;Teresina;PI
+596;C139725;2025-07-03;18:00;23,34;Alimentação;PIX;Salvador;BA
+597;C000001;2025-05-01;21:00;30,00;Vestuário;Crédito;Macapá;AP
+598;C000002;2025-10-16;19:00;318,33;Alimentação;PIX;João Pessoa;PB
+599;C000001;2025-08-26;15:00;158,71;Vestuário;PIX;São Paulo;SP
+600;C000001;2025-01-13;14:00;382,09;Vestuário;PIX;São Paulo;SP
+601;C000009;2025-12-09;18:00;119,12;Vestuário;Crédito;Fortaleza;CE
+602;C000090;2025-02-06;14:00;15,38;Lazer;PIX;Porto Alegre;RS
+603;C000001;2025-04-23;21:00;404,24;Vestuário;Débito;Rio de Janeiro;RJ
+604;C000305;2025-03-11;11:00;20,45;Alimentação;Crédito;Maringá;PR
+605;C000004;2025-09-01;18:00;14,09;Transporte;PIX;Campo Grande;MS
+606;C000280;2025-01-07;20:00;37,76;Lazer;Débito;São Paulo;SP
+607;C000008;2025-03-29;17:00;41,64;Alimentação;Débito;Rio de Janeiro;RJ
+608;C000001;2025-08-04;17:00;71,81;Alimentação;Débito;Rio de Janeiro;RJ
+609;C037867;2025-08-30;13:00;33,58;Transporte;Crédito;Caxias do Sul;RS
+610;C007892;2025-03-09;12:00;107,89;Alimentação;PIX;Rio de Janeiro;RJ
+611;C000734;2025-02-12;13:00;1018,36;Moradia;PIX;Rio de Janeiro;RJ
+612;C000006;2025-02-14;21:00;786,69;Educação;PIX;Belo Horizonte;MG
+613;C015713;2025-04-17;19:00;41,07;Alimentação;Boleto;Fortaleza;CE
+614;C000320;2025-03-26;14:00;27,62;Transporte;PIX;Aracaju;SE
+615;C000003;2025-01-03;16:00;805,14;Saúde;Crédito;São Paulo;SP
+616;C000004;2025-02-23;17:00;52,56;Vestuário;PIX;Palmas;TO
+617;C000002;2025-01-31;19:00;523,93;Vestuário;Boleto;São Paulo;SP
+618;C002488;2025-09-10;13:00;41,22;Transporte;Débito;São Paulo;SP
+619;C000168;2025-07-09;16:00;22,51;Alimentação;PIX;Vila Velha;ES
+620;C000001;2025-04-11;13:00;571,75;Moradia;Crédito;Manaus;AM
+621;C005115;2025-08-17;13:00;5855,35;Eletrônicos;PIX;Fortaleza;CE
+622;C363086;2025-11-18;13:00;54,43;Alimentação;PIX;Joinville;SC
+623;C000002;2025-12-07;16:00;24,32;Transporte;Crédito;Rio de Janeiro;RJ
+624;C000004;2025-05-24;22:00;959,90;Moradia;Débito;Santos;SP
+625;C000631;2025-01-09;17:00;127,79;Alimentação;PIX;Campo Grande;MS
+626;C000012;2025-04-02;21:00;98,35;Alimentação;PIX;Cuiabá;MT
+627;C000051;2025-01-06;19:00;463,38;Moradia;Boleto;Curitiba;PR
+628;C000042;2025-08-08;19:00;3615,47;Eletrônicos;PIX;Manaus;AM
+629;C000003;2025-04-09;21:00;117,82;Alimentação;Débito;Salvador;BA
+630;C000089;2025-05-03;05:00;14,26;Transporte;Boleto;Ribeirão Preto;SP
+631;C323225;2025-05-20;12:00;170,17;Transporte;Crédito;Florianópolis;SC
+632;C000024;2025-09-01;11:00;83,61;Alimentação;Boleto;Manaus;AM
+633;C000001;2025-07-21;18:00;592,87;Educação;Crédito;Salvador;BA
+634;C000008;2025-08-24;13:00;57,59;Saúde;Crédito;Manaus;AM
+635;C011910;2025-07-22;18:00;5681,38;Eletrônicos;PIX;Campinas;SP
+636;C000115;2025-07-28;10:00;617,85;Vestuário;PIX;João Pessoa;PB
+637;C075416;2025-01-22;18:00;28,80;Alimentação;PIX;Campo Grande;MS
+638;C000015;2025-06-30;02:00;628,59;Educação;PIX;São Gonçalo;RJ
+639;C000016;2025-12-06;19:00;28,44;Transporte;PIX;São Paulo;SP
+640;C001765;2025-10-31;15:00;203,18;Saúde;Crédito;Rio de Janeiro;RJ
+641;C000007;2025-05-23;16:00;37,33;Transporte;Crédito;São Paulo;SP
+642;C000043;2025-07-24;18:00;112,31;Saúde;PIX;Uberlândia;MG
+643;C000002;2025-07-07;19:00;202,31;Saúde;Crédito;Salvador;BA
+644;C000169;2025-07-07;22:00;113,98;Lazer;PIX;Recife;PE
+645;C000007;2025-07-30;14:00;410,63;Alimentação;PIX;São Paulo;SP
+646;C000001;2025-03-03;13:00;82,87;Vestuário;Crédito;São Paulo;SP
+647;C001920;2025-11-04;10:00;83,28;Alimentação;Crédito;Rio de Janeiro;RJ
+648;C000074;2025-06-16;13:00;171,21;Saúde;Boleto;Rio de Janeiro;RJ
+649;C000414;2025-07-20;19:00;49,04;Lazer;Crédito;Teresina;PI
+650;C000015;2025-11-29;12:00;265,36;Saúde;Crédito;São Paulo;SP
+651;C000002;2025-06-11;16:00;244,64;Alimentação;PIX;Joinville;SC
+652;C000505;2025-06-21;21:00;35,02;Transporte;Crédito;Rio Branco;AC
+653;C000017;2025-03-10;21:00;18,72;Transporte;Débito;Manaus;AM
+654;C000317;2025-08-14;16:00;359,52;Lazer;Boleto;Salvador;BA
+655;C000029;2025-11-22;22:00;70,24;Alimentação;PIX;Londrina;PR
+656;C000125;2025-03-02;10:00;45,98;Vestuário;PIX;Rio de Janeiro;RJ
+657;C000002;2025-04-10;23:00;222,28;Lazer;Débito;Macapá;AP
+658;C001430;2025-10-07;11:00;27,25;Alimentação;Débito;Cuiabá;MT
+659;C000001;2025-03-26;13:00;49,42;Vestuário;Crédito;Maringá;PR
+660;C000285;2025-01-06;22:00;19,87;Saúde;PIX;Natal;RN
+661;C000001;2025-08-27;19:00;60,26;Alimentação;Crédito;Fortaleza;CE
+662;C000201;2025-11-07;12:00;47,46;Alimentação;Boleto;Florianópolis;SC
+663;C197071;2025-04-06;17:00;349,99;Vestuário;Débito;Rio de Janeiro;RJ
+664;C087904;2025-11-28;15:00;345,30;Vestuário;PIX;Rio de Janeiro;RJ
+665;C407230;2025-10-19;11:00;63,74;Alimentação;PIX;Curitiba;PR
+666;C000001;2025-01-14;09:00;51,92;Alimentação;PIX;Salvador;BA
+667;C000376;2025-12-06;21:00;74,44;Alimentação;Débito;Curitiba;PR
+668;C000064;2025-08-25;22:00;38,39;Transporte;Crédito;Maringá;PR
+669;C000018;2025-09-03;17:00;100,28;Lazer;Débito;Joinville;SC
+670;C000011;2025-08-17;13:00;121,54;Transporte;Crédito;Rio de Janeiro;RJ
+671;C000871;2025-03-14;11:00;31,63;Transporte;Crédito;Belém;PA
+672;C128298;2025-03-14;18:00;64,81;Alimentação;PIX;São Paulo;SP
+673;C000120;2025-10-21;10:00;119,96;Saúde;Débito;Salvador;BA
+674;C000006;2025-04-06;13:00;8,90;Transporte;Débito;Belo Horizonte;MG
+675;C000006;2025-11-06;13:00;217,18;Alimentação;PIX;Aracaju;SE
+676;C000250;2025-06-24;11:00;126,11;Saúde;Crédito;Belo Horizonte;MG
+677;C017739;2025-12-09;14:00;37,38;Alimentação;Crédito;Rio de Janeiro;RJ
+678;C458837;2025-06-05;09:00;1102,86;Eletrônicos;PIX;Teresina;PI
+679;C001097;2025-07-25;20:00;42,89;Alimentação;Crédito;Brasília;DF
+680;C000477;2025-09-10;02:00;1543,28;Moradia;PIX;Goiânia;GO
+681;C058690;2025-12-12;21:00;98,86;Transporte;Débito;São Paulo;SP
+682;C000004;2025-09-27;12:00;22,18;Saúde;Débito;São Paulo;SP
+683;C000018;2025-05-02;16:00;41,42;Alimentação;Boleto;João Pessoa;PB
+684;C000010;2025-08-23;18:00;82,69;Alimentação;Crédito;Fortaleza;CE
+685;C000003;2025-08-19;15:00;740,90;Educação;Débito;Aracaju;SE
+686;C014901;2025-03-18;22:00;304,54;Saúde;Débito;São Paulo;SP
+687;C043251;2025-06-12;13:00;62,32;Transporte;PIX;Porto Alegre;RS
+688;C000201;2025-06-11;16:00;19,81;Transporte;Crédito;São Paulo;SP
+689;C004560;2025-02-10;11:00;151,08;Saúde;PIX;Aracaju;SE
+690;C228562;2025-07-29;11:00;92,33;Alimentação;Crédito;Uberlândia;MG
+691;C000070;2025-02-26;19:00;77,62;Alimentação;Crédito;Campo Grande;MS
+692;C154992;2025-07-30;20:00;211,97;Alimentação;PIX;Vila Velha;ES
+693;C000090;2025-04-15;18:00;21,74;Transporte;Débito;São Paulo;SP
+694;C000048;2025-07-05;17:00;14,23;Alimentação;PIX;Macapá;AP
+695;C004499;2025-07-20;19:00;2948,23;Eletrônicos;Crédito;São Paulo;SP
+696;C087563;2025-12-28;13:00;200,70;Vestuário;Débito;Manaus;AM
+697;C000856;2025-06-30;14:00;191,55;Alimentação;PIX;Belo Horizonte;MG
+698;C000005;2025-08-22;20:00;326,42;Lazer;Crédito;Belo Horizonte;MG
+699;C266433;2025-07-26;12:00;113,99;Alimentação;Crédito;Joinville;SC
+700;C129236;2025-08-07;13:00;53,95;Transporte;Boleto;Florianópolis;SC
+701;C000029;2025-09-30;19:00;174,44;Alimentação;PIX;Aracaju;SE
+702;C292944;2025-05-19;18:00;11,23;Transporte;PIX;São Gonçalo;RJ
+703;C000001;2025-07-21;09:00;241,84;Saúde;PIX;Belo Horizonte;MG
+704;C000321;2025-07-29;10:00;504,61;Educação;Boleto;Rio de Janeiro;RJ
+705;C000002;2025-11-28;19:00;65,83;Lazer;PIX;Rio de Janeiro;RJ
+706;C000757;2025-11-27;09:00;70,13;Alimentação;Débito;Belo Horizonte;MG
+707;C004180;2025-08-19;19:00;111,26;Alimentação;PIX;Salvador;BA
+708;C000002;2025-05-19;09:00;45,09;Alimentação;Crédito;Rio de Janeiro;RJ
+709;C000756;2025-12-28;17:00;918,41;Eletrônicos;PIX;Ribeirão Preto;SP
+710;C002788;2025-07-11;11:00;297,57;Saúde;PIX;Ribeirão Preto;SP
+711;C096884;2025-05-18;12:00;259,50;Lazer;Débito;Fortaleza;CE
+712;C006466;2025-05-13;18:00;39,75;Transporte;Crédito;São Paulo;SP
+713;C000288;2025-11-21;09:00;316,75;Saúde;PIX;Brasília;DF
+714;C000001;2025-11-16;07:00;2032,89;Moradia;Débito;Natal;RN
+715;C003747;2025-09-12;01:00;13481,30;Eletrônicos;Crédito;Fortaleza;CE
+716;C000035;2025-12-07;15:00;14,45;Alimentação;PIX;São Gonçalo;RJ
+717;C001805;2025-09-20;09:00;49,83;Saúde;Boleto;São Paulo;SP
+718;C000739;2025-11-09;18:00;2491,21;Eletrônicos;Crédito;São Paulo;SP
+719;C002083;2025-09-24;12:00;20,51;Alimentação;Crédito;Goiânia;GO
+720;C000001;2025-10-03;16:00;3027,57;Eletrônicos;Crédito;Maceió;AL
+721;C000001;2025-06-01;21:00;70,90;Alimentação;Crédito;Salvador;BA
+722;C000016;2025-08-27;16:00;129,27;Alimentação;Crédito;Rio de Janeiro;RJ
+723;C000093;2025-12-31;10:00;96,07;Vestuário;Débito;São Gonçalo;RJ
+724;C000200;2025-01-20;21:00;567,56;Lazer;PIX;Belo Horizonte;MG
+725;C000002;2025-11-10;10:00;26,60;Transporte;Boleto;Salvador;BA
+726;C116109;2025-11-20;23:00;246,57;Alimentação;Boleto;São Paulo;SP
+727;C000001;2025-03-14;16:00;129,21;Transporte;Débito;São Gonçalo;RJ
+728;C003482;2025-08-18;23:00;1920,50;Educação;Crédito;Goiânia;GO
+729;C000005;2025-11-28;12:00;41,99;Alimentação;Débito;Porto Alegre;RS
+730;C000030;2025-01-21;09:00;131,50;Alimentação;Débito;Rio de Janeiro;RJ
+731;C000480;2025-03-29;11:00;138,26;Lazer;Débito;São Paulo;SP
+732;C000003;2025-07-14;20:00;113,61;Alimentação;PIX;Belo Horizonte;MG
+733;C000480;2025-07-15;12:00;522,79;Vestuário;PIX;Curitiba;PR
+734;C000066;2025-05-28;13:00;32,47;Transporte;Débito;Uberlândia;MG
+735;C000251;2025-05-04;14:00;17,69;Transporte;PIX;Rio de Janeiro;RJ
+736;C000001;2025-11-16;04:00;47,56;Transporte;PIX;São Paulo;SP
+737;C000213;2025-07-21;20:00;18,37;Alimentação;Débito;Rio de Janeiro;RJ
+738;C017546;2025-10-13;12:00;32,93;Transporte;PIX;Manaus;AM
+739;C000150;2025-11-05;22:00;24,81;Transporte;PIX;Brasília;DF
+740;C000384;2025-08-25;18:00;301,07;Alimentação;Boleto;Maceió;AL
+741;C000002;2025-08-13;21:00;143,26;Educação;Débito;Brasília;DF
+742;C000014;2025-08-24;16:00;22,61;Transporte;Crédito;Maringá;PR
+743;C001568;2025-02-20;18:00;58,76;Transporte;Débito;Caxias do Sul;RS
+744;C155655;2025-03-10;11:00;8,09;Alimentação;PIX;São Paulo;SP
+745;C012418;2025-03-17;16:00;132,71;Alimentação;Débito;Maceió;AL
+746;C000017;2025-06-08;19:00;143,71;Vestuário;Crédito;Goiânia;GO
+747;C000009;2025-02-17;19:00;24,21;Alimentação;PIX;Salvador;BA
+748;C000524;2025-12-05;16:00;44,79;Transporte;Débito;João Pessoa;PB
+749;C000008;2025-09-22;18:00;82,42;Alimentação;PIX;Cuiabá;MT
+750;C219596;2025-12-12;11:00;46,34;Alimentação;PIX;Belo Horizonte;MG
+751;C000012;2025-05-05;14:00;21,62;Transporte;PIX;Rio de Janeiro;RJ
+752;C000585;2025-10-11;19:00;404,82;Lazer;Débito;São Paulo;SP
+753;C000009;2025-11-19;12:00;31,40;Transporte;PIX;Rio de Janeiro;RJ
+754;C000001;2025-03-29;22:00;103,41;Saúde;Débito;Recife;PE
+755;C000137;2025-06-04;18:00;81,57;Alimentação;PIX;Curitiba;PR
+756;C477950;2025-01-12;14:00;36,63;Alimentação;PIX;Recife;PE
+757;C000001;2025-10-27;10:00;2202,37;Moradia;PIX;Boa Vista;RR
+758;C000033;2025-11-23;13:00;59,53;Alimentação;PIX;Fortaleza;CE
+759;C000001;2025-05-21;14:00;55,19;Alimentação;Crédito;Salvador;BA
+760;C094756;2025-08-29;22:00;53,11;Alimentação;PIX;Fortaleza;CE
+761;C000036;2025-11-01;09:00;664,52;Eletrônicos;PIX;Campo Grande;MS
+762;C004649;2025-11-12;01:00;55,22;Transporte;PIX;Rio de Janeiro;RJ
+763;C000011;2025-04-29;22:00;134,10;Vestuário;PIX;Manaus;AM
+764;C012128;2025-12-16;14:00;14,80;Transporte;Crédito;Rio de Janeiro;RJ
+765;C017144;2025-05-22;14:00;177,05;Saúde;Boleto;Porto Alegre;RS
+766;C000071;2025-12-07;11:00;67,02;Transporte;Crédito;São Gonçalo;RJ
+767;C000623;2025-11-04;17:00;131,41;Lazer;Crédito;Joinville;SC
+768;C000074;2025-03-30;11:00;891,29;Moradia;Débito;São Gonçalo;RJ
+769;C000002;2025-02-27;10:00;181,75;Lazer;Boleto;Vitória;ES
+770;C000780;2025-10-26;23:00;118,24;Vestuário;Débito;Fortaleza;CE
+771;C007235;2025-12-25;14:00;18,77;Alimentação;PIX;Campinas;SP
+772;C000001;2025-02-15;09:00;34,76;Transporte;Débito;Guarulhos;SP
+773;C000002;2025-09-07;13:00;84,68;Vestuário;PIX;São Paulo;SP
+774;C000255;2025-05-25;10:00;92,17;Alimentação;Crédito;Petrolina;PE
+775;C000050;2025-03-08;12:00;129,29;Alimentação;PIX;São Paulo;SP
+776;C002778;2025-12-21;23:00;1868,62;Moradia;Débito;Rio de Janeiro;RJ
+777;C000002;2025-11-18;14:00;169,27;Vestuário;PIX;Feira de Santana;BA
+778;C066612;2025-08-07;11:00;690,13;Eletrônicos;Crédito;Guarulhos;SP
+779;C007208;2025-03-18;20:00;67,89;Alimentação;PIX;Campo Grande;MS
+780;C000004;2025-10-19;15:00;160,31;Vestuário;Débito;Fortaleza;CE
+781;C000008;2025-03-08;20:00;170,58;Transporte;Crédito;João Pessoa;PB
+782;C000001;2025-10-30;12:00;18,67;Transporte;Crédito;Rio de Janeiro;RJ
+783;C000510;2025-01-06;11:00;107,18;Vestuário;PIX;Goiânia;GO
+784;C000008;2025-09-11;17:00;61,30;Alimentação;PIX;Curitiba;PR
+785;C002387;2025-07-30;10:00;1227,08;Eletrônicos;PIX;São Paulo;SP
+786;C001205;2025-01-04;19:00;485,91;Vestuário;PIX;Porto Alegre;RS
+787;C001169;2025-06-02;18:00;27,17;Alimentação;Crédito;Rio de Janeiro;RJ
+788;C027941;2025-07-20;12:00;3539,86;Moradia;Crédito;Recife;PE
+789;C000008;2025-08-12;19:00;1070,46;Educação;Crédito;Manaus;AM
+790;C061631;2025-05-11;15:00;28,99;Alimentação;Crédito;Rio de Janeiro;RJ
+791;C000063;2025-07-12;10:00;1712,08;Educação;Crédito;Rio de Janeiro;RJ
+792;C000156;2025-01-30;20:00;540,81;Educação;PIX;Maceió;AL
+793;C000761;2025-04-21;19:00;32,84;Saúde;PIX;Rio de Janeiro;RJ
+794;C017863;2025-08-01;11:00;239,82;Educação;Crédito;Feira de Santana;BA
+795;C320335;2025-07-29;17:00;195,11;Vestuário;PIX;Curitiba;PR
+796;C000002;2025-03-02;19:00;138,85;Alimentação;Boleto;Rio de Janeiro;RJ
+797;C000011;2025-12-07;22:00;37,15;Alimentação;PIX;Aracaju;SE
+798;C000001;2025-03-15;23:00;50,29;Transporte;Débito;Manaus;AM
+799;C000002;2025-12-09;13:00;60,67;Vestuário;PIX;Rio Branco;AC
+800;C000060;2025-01-06;12:00;43,65;Alimentação;Débito;São Paulo;SP
+801;C002027;2025-02-05;19:00;34,76;Alimentação;PIX;São Paulo;SP
+802;C000188;2025-11-09;16:00;112,81;Vestuário;PIX;Rio de Janeiro;RJ
+803;C000007;2025-08-24;13:00;25,42;Transporte;PIX;Porto Alegre;RS
+804;C001670;2025-05-09;15:00;56,55;Alimentação;Crédito;Guarulhos;SP
+805;C000121;2025-08-07;21:00;132,19;Vestuário;Débito;Brasília;DF
+806;C000060;2025-02-26;17:00;27,26;Transporte;PIX;Rio de Janeiro;RJ
+807;C130176;2025-02-24;16:00;54,51;Transporte;PIX;São Paulo;SP
+808;C003651;2025-07-20;12:00;25,45;Saúde;Crédito;Palmas;TO
+809;C000001;2025-05-12;12:00;644,73;Saúde;Crédito;São Paulo;SP
+810;C000004;2025-04-26;09:00;244,63;Vestuário;Crédito;Brasília;DF
+811;C000039;2025-10-31;17:00;92,19;Alimentação;PIX;Belo Horizonte;MG
+812;C003602;2025-03-21;20:00;715,17;Educação;PIX;Brasília;DF
+813;C007121;2025-07-31;12:00;34,29;Alimentação;PIX;Rio de Janeiro;RJ
+814;C032812;2025-02-09;21:00;76,34;Transporte;PIX;Manaus;AM
+815;C000250;2025-08-12;20:00;125,55;Vestuário;Débito;Salvador;BA
+816;C000001;2025-01-01;18:00;15,75;Alimentação;Débito;Fortaleza;CE
+817;C000001;2025-04-27;22:00;2478,57;Eletrônicos;PIX;Vitória;ES
+818;C000027;2025-09-13;11:00;337,31;Vestuário;Crédito;Campinas;SP
+819;C017455;2025-02-14;12:00;1355,13;Educação;PIX;Joinville;SC
+820;C001171;2025-12-11;15:00;901,91;Eletrônicos;PIX;São Paulo;SP
+821;C014374;2025-12-15;21:00;58,18;Lazer;PIX;Belém;PA
+822;C005124;2025-12-05;18:00;201,25;Vestuário;PIX;Teresina;PI
+823;C144954;2025-03-16;19:00;121,31;Alimentação;Débito;São Paulo;SP
+824;C000021;2025-08-19;11:00;36,45;Transporte;PIX;São Paulo;SP
+825;C229513;2025-09-07;14:00;15,23;Transporte;Crédito;Teresina;PI
+826;C000002;2025-10-03;13:00;4413,78;Eletrônicos;Crédito;Rio de Janeiro;RJ
+827;C000142;2025-09-17;20:00;93,77;Vestuário;PIX;Rio de Janeiro;RJ
+828;C250540;2025-04-14;18:00;40,62;Lazer;Boleto;Recife;PE
+829;C000001;2025-08-07;10:00;42,74;Transporte;Crédito;Guarulhos;SP
+830;C049434;2025-02-16;00:00;2925,42;Moradia;Crédito;São Paulo;SP
+831;C000001;2025-10-20;11:00;344,27;Eletrônicos;PIX;Salvador;BA
+832;C000014;2025-12-17;11:00;248,98;Alimentação;Débito;São Gonçalo;RJ
+833;C006334;2025-03-29;12:00;195,94;Alimentação;Crédito;Campinas;SP
+834;C000019;2025-06-30;14:00;1071,07;Educação;PIX;Recife;PE
+835;C002031;2025-06-21;20:00;56,40;Alimentação;Débito;Palmas;TO
+836;C000019;2025-10-14;10:00;18,74;Transporte;PIX;Vila Velha;ES
+837;C009492;2025-06-15;12:00;45,79;Lazer;PIX;São Paulo;SP
+838;C051521;2025-02-04;20:00;1455,78;Eletrônicos;Crédito;Teresina;PI
+839;C000041;2025-01-12;12:00;898,44;Saúde;Crédito;São Paulo;SP
+840;C000004;2025-07-11;22:00;123,03;Vestuário;Crédito;São Paulo;SP
+841;C000036;2025-02-16;19:00;1929,59;Moradia;Crédito;São Luís;MA
+842;C059913;2025-05-17;13:00;71,03;Saúde;Débito;Brasília;DF
+843;C212842;2025-08-06;18:00;312,18;Saúde;PIX;São Paulo;SP
+844;C007195;2025-05-29;21:00;65,31;Lazer;PIX;São Paulo;SP
+845;C003120;2025-11-16;16:00;1424,86;Educação;Crédito;São Paulo;SP
+846;C000167;2025-06-24;18:00;16,15;Alimentação;Crédito;Curitiba;PR
+847;C001750;2025-01-02;11:00;149,73;Vestuário;Débito;Brasília;DF
+848;C000003;2025-04-23;19:00;1413,04;Eletrônicos;Crédito;São Paulo;SP
+849;C027960;2025-06-10;08:00;26,44;Transporte;Débito;São Paulo;SP
+850;C000577;2025-03-07;01:00;49,69;Transporte;Boleto;Rio de Janeiro;RJ
+851;C000016;2025-04-24;17:00;142,88;Transporte;PIX;Belém;PA
+852;C094032;2025-05-23;16:00;480,18;Eletrônicos;Crédito;São Paulo;SP
+853;C001466;2025-01-01;17:00;252,29;Saúde;Débito;Fortaleza;CE
+854;C000042;2025-01-11;15:00;20,51;Transporte;Débito;Belém;PA
+855;C003585;2025-03-26;12:00;844,10;Saúde;Crédito;Salvador;BA
+856;C000005;2025-10-11;22:00;33,83;Alimentação;Débito;São Luís;MA
+857;C000009;2025-05-17;12:00;24,27;Transporte;PIX;São Paulo;SP
+858;C001553;2025-11-08;17:00;60,21;Alimentação;PIX;Rio Branco;AC
+859;C034312;2025-10-09;18:00;429,46;Alimentação;PIX;Rio de Janeiro;RJ
+860;C000003;2025-11-09;14:00;200,42;Lazer;Crédito;Salvador;BA
+861;C000006;2025-12-01;14:00;43,71;Alimentação;Boleto;São Paulo;SP
+862;C000012;2025-05-11;12:00;3111,34;Eletrônicos;Boleto;Vitória;ES
+863;C000006;2025-12-24;16:00;159,65;Vestuário;PIX;Campo Grande;MS
+864;C006952;2025-03-10;16:00;197,68;Vestuário;PIX;Cuiabá;MT
+865;C000535;2025-05-28;15:00;20,51;Transporte;Crédito;Belo Horizonte;MG
+866;C000067;2025-08-04;14:00;312,56;Saúde;PIX;Rio de Janeiro;RJ
+867;C477726;2025-02-02;16:00;25500,56;Transporte;Crédito;Rio de Janeiro;RJ
+868;C408658;2025-12-22;18:00;38,57;Alimentação;PIX;Belém;PA
+869;C000001;2025-08-04;10:00;191,12;Saúde;Débito;Curitiba;PR
+870;C000015;2025-03-20;13:00;44,20;Transporte;Crédito;São Paulo;SP
+871;C008979;2025-05-01;10:00;98,23;Vestuário;Crédito;Aracaju;SE
+872;C001031;2025-01-20;11:00;108,93;Vestuário;Crédito;Caxias do Sul;RS
+873;C015466;2025-01-06;12:00;586,84;Educação;PIX;São Paulo;SP
+874;C000001;2025-03-26;13:00;17,90;Alimentação;PIX;São Paulo;SP
+875;C003526;2025-11-07;12:00;649,80;Educação;Débito;São Paulo;SP
+876;C000056;2025-08-11;15:00;917,81;Moradia;Débito;Belo Horizonte;MG
+877;C000307;2025-05-21;11:00;212,99;Alimentação;Crédito;São Paulo;SP
+878;C000260;2025-04-08;13:00;89,57;Vestuário;Boleto;São Paulo;SP
+879;C000225;2025-04-26;12:00;25,95;Lazer;Débito;Rio de Janeiro;RJ
+880;C002741;2025-10-05;13:00;80,04;Vestuário;PIX;São Paulo;SP
+881;C000002;2025-11-23;20:00;29,13;Alimentação;Crédito;Manaus;AM
+882;C005440;2025-09-28;16:00;44,50;Alimentação;Crédito;Brasília;DF
+883;C042182;2025-06-22;14:00;49,74;Transporte;Crédito;Belém;PA
+884;C001396;2025-06-23;16:00;178,98;Lazer;Crédito;Macapá;AP
+885;C002729;2025-06-29;12:00;11,43;Transporte;Crédito;São Paulo;SP
+886;C000002;2025-08-17;12:00;143,54;Vestuário;PIX;Recife;PE
+887;C005167;2025-12-15;17:00;71,79;Alimentação;Crédito;Fortaleza;CE
+888;C000657;2025-07-18;17:00;397,95;Eletrônicos;Crédito;São Paulo;SP
+889;C000001;2025-04-09;13:00;59,69;Alimentação;Débito;Recife;PE
+890;C000046;2025-10-06;11:00;48,30;Transporte;PIX;São Paulo;SP
+891;C000002;2025-07-20;11:00;156,27;Vestuário;PIX;Londrina;PR
+892;C000575;2025-06-22;15:00;254,90;Saúde;PIX;Curitiba;PR
+893;C000001;2025-10-07;12:00;2455,87;Moradia;Crédito;Guarulhos;SP
+894;C000015;2025-05-13;20:00;141,55;Vestuário;Boleto;Macapá;AP
+895;C000404;2025-09-15;20:00;13,63;Alimentação;Crédito;Guarulhos;SP
+896;C362162;2025-01-04;10:00;162,21;Vestuário;Crédito;Brasília;DF
+897;C000004;2025-12-11;22:00;50,61;Vestuário;PIX;São Paulo;SP
+898;C000016;2025-06-28;21:00;2127,10;Educação;Boleto;Goiânia;GO
+899;C000106;2025-10-29;16:00;14,20;Transporte;PIX;Belo Horizonte;MG
+900;C000259;2025-12-27;21:00;46,10;Transporte;PIX;São Paulo;SP
+901;C002392;2025-12-22;18:00;37,95;Alimentação;Crédito;São Paulo;SP
+902;C000002;2025-02-25;15:00;113,68;Lazer;Débito;São Paulo;SP
+903;C000001;2025-12-10;13:00;96,94;Vestuário;PIX;Salvador;BA
+904;C001140;2025-04-09;14:00;865,03;Eletrônicos;PIX;São Paulo;SP
+905;C000084;2025-10-30;23:00;2888,68;Educação;PIX;Campo Grande;MS
+906;C000008;2025-08-09;21:00;103,26;Transporte;Crédito;São Paulo;SP
+907;C000002;2025-09-22;13:00;51,79;Transporte;PIX;Salvador;BA
+908;C000598;2025-10-26;01:00;329,78;Vestuário;PIX;Rio de Janeiro;RJ
+909;C000445;2025-10-28;16:00;66,29;Alimentação;Crédito;São Paulo;SP
+910;C000001;2025-02-02;20:00;162,79;Vestuário;Boleto;São Paulo;SP
+911;C000038;2025-07-24;19:00;40,38;Alimentação;PIX;Florianópolis;SC
+912;C000051;2025-07-09;21:00;326,20;Educação;Crédito;Cuiabá;MT
+913;C018598;2025-12-17;08:00;30,28;Transporte;Crédito;Belo Horizonte;MG
+914;C000160;2025-06-28;11:00;14,67;Alimentação;PIX;Fortaleza;CE
+915;C000026;2025-04-19;17:00;37,80;Transporte;PIX;Curitiba;PR
+916;C000001;2025-11-22;15:00;149,58;Lazer;PIX;Maceió;AL
+917;C004611;2025-11-03;23:00;57,34;Vestuário;Boleto;Florianópolis;SC
+918;C006095;2025-10-24;08:00;24,50;Vestuário;PIX;Porto Velho;RO
+919;C007052;2025-10-14;15:00;52,50;Transporte;Crédito;São Paulo;SP
+920;C001659;2025-02-07;12:00;136,15;Saúde;Boleto;Curitiba;PR
+921;C006848;2025-07-24;12:00;289,84;Saúde;Débito;Rio de Janeiro;RJ
+922;C000008;2025-09-19;15:00;225,63;Educação;PIX;Manaus;AM
+923;C000026;2025-11-30;17:00;4345,35;Eletrônicos;Crédito;São Paulo;SP
+924;C000001;2025-08-24;18:00;140,20;Saúde;Crédito;Brasília;DF
+925;C000367;2025-08-12;13:00;136,28;Alimentação;Crédito;São Paulo;SP
+926;C000002;2025-07-26;13:00;3486,41;Moradia;PIX;São Paulo;SP
+927;C232060;2025-08-20;21:00;29,64;Alimentação;PIX;São Gonçalo;RJ
+928;C000010;2025-08-16;14:00;107,79;Lazer;Crédito;Natal;RN
+929;C000002;2025-09-12;14:00;134,84;Transporte;Crédito;Vila Velha;ES
+930;C000002;2025-03-23;18:00;24,55;Transporte;PIX;São Paulo;SP
+931;C001116;2025-11-03;22:00;1684,42;Educação;Boleto;Recife;PE
+932;C033871;2025-09-11;14:00;225,63;Alimentação;PIX;Natal;RN
+933;C000011;2025-02-16;18:00;481,24;Saúde;PIX;Aracaju;SE
+934;C000002;2025-03-14;21:00;151,84;Lazer;Débito;Fortaleza;CE
+935;C000007;2025-12-22;17:00;18,70;Transporte;PIX;Rio de Janeiro;RJ
+936;C000246;2025-07-07;10:00;221,97;Lazer;PIX;Curitiba;PR
+937;C000002;2025-12-02;07:00;256,27;Saúde;Boleto;Guarulhos;SP
+938;C303412;2025-06-19;13:00;148,13;Alimentação;PIX;São Paulo;SP
+939;C000012;2025-07-21;09:00;77,02;Alimentação;PIX;Joinville;SC
+940;C000001;2025-06-25;12:00;99,07;Alimentação;Crédito;Ribeirão Preto;SP
+941;C000125;2025-05-17;10:00;100,20;Vestuário;Boleto;Belém;PA
+942;C000081;2025-02-25;13:00;8523,28;Eletrônicos;Débito;São Paulo;SP
+943;C000002;2025-05-01;12:00;91,01;Alimentação;Débito;São Paulo;SP
+944;C000023;2025-05-06;16:00;31,29;Lazer;Crédito;Belém;PA
+945;C000002;2025-05-01;12:00;1849,91;Eletrônicos;Boleto;Brasília;DF
+946;C000002;2025-10-08;20:00;187,37;Saúde;Boleto;Goiânia;GO
+947;C000001;2025-06-21;14:00;46,30;Alimentação;Débito;Belém;PA
+948;C000575;2025-06-12;21:00;294,81;Saúde;PIX;Porto Alegre;RS
+949;C000001;2025-02-12;09:00;76,42;Alimentação;Débito;São Gonçalo;RJ
+950;C403926;2025-12-12;10:00;60,78;Alimentação;Débito;São Paulo;SP
+951;C006940;2025-04-19;10:00;24,56;Alimentação;Crédito;Uberlândia;MG
+952;C000003;2025-09-05;22:00;1480,71;Moradia;Boleto;São Paulo;SP
+953;C000092;2025-01-24;09:00;20,74;Lazer;Débito;Salvador;BA
+954;C056835;2025-04-02;10:00;55,75;Alimentação;PIX;Feira de Santana;BA
+955;C009267;2025-03-06;13:00;75,94;Vestuário;PIX;Curitiba;PR
+956;C000010;2025-06-14;19:00;31,00;Alimentação;Crédito;Campinas;SP
+957;C000001;2025-11-07;20:00;140,14;Alimentação;Débito;Rio de Janeiro;RJ
+958;C093188;2025-10-19;15:00;108,86;Alimentação;Crédito;Rio de Janeiro;RJ
+959;C000001;2025-08-02;20:00;82,79;Lazer;Crédito;Brasília;DF
+960;C000845;2025-05-28;10:00;12,44;Alimentação;Boleto;São Paulo;SP
+961;C123564;2025-04-22;09:00;24,48;Alimentação;PIX;São Paulo;SP
+962;C000427;2025-09-23;07:00;694,64;Eletrônicos;PIX;São Paulo;SP
+963;C000006;2025-01-20;20:00;85,84;Alimentação;Crédito;São Paulo;SP
+964;C000003;2025-10-03;17:00;1338,81;Moradia;Crédito;Manaus;AM
+965;C000617;2025-05-09;22:00;662,64;Educação;PIX;Fortaleza;CE
+966;C001333;2025-05-06;20:00;12,32;Transporte;Boleto;Salvador;BA
+967;C000614;2025-02-13;13:00;2804,27;Eletrônicos;Débito;Rio de Janeiro;RJ
+968;C000019;2025-12-28;17:00;428,75;Vestuário;Crédito;Belém;PA
+969;C000006;2025-10-17;14:00;678,56;Educação;Crédito;São Luís;MA
+970;C002259;2025-04-12;14:00;865,33;Moradia;PIX;Recife;PE
+971;C000007;2025-11-20;23:00;77,66;Alimentação;Crédito;Cuiabá;MT
+972;C000223;2025-09-03;09:00;3715,95;Vestuário;PIX;Rio de Janeiro;RJ
+973;C000008;2025-11-14;18:00;621,37;Educação;PIX;São Paulo;SP
+974;C000002;2025-05-08;20:00;558,24;Moradia;Boleto;Boa Vista;RR
+975;C004085;2025-01-16;18:00;222,45;Educação;Boleto;Rio de Janeiro;RJ
+976;C000051;2025-06-29;20:00;16,47;Transporte;Boleto;Fortaleza;CE
+977;C000673;2025-09-04;16:00;447,31;Lazer;PIX;São Paulo;SP
+978;C200311;2025-08-01;19:00;151,05;Eletrônicos;PIX;Campo Grande;MS
+979;C000084;2025-04-28;13:00;193,59;Lazer;PIX;Maceió;AL
+980;C000200;2025-07-19;00:00;281,42;Vestuário;PIX;Londrina;PR
+981;C000003;2025-04-16;12:00;50,89;Alimentação;Crédito;São Paulo;SP
+982;C000008;2025-05-31;13:00;259,34;Vestuário;PIX;Recife;PE
+983;C000994;2025-12-26;11:00;150,41;Vestuário;Boleto;Recife;PE
+984;C007312;2025-04-27;16:00;68,39;Alimentação;Boleto;São Paulo;SP
+985;C000001;2025-03-02;13:00;25,72;Transporte;PIX;Maringá;PR
+986;C000082;2025-04-11;19:00;1448,67;Moradia;PIX;São Gonçalo;RJ
+987;C006741;2025-01-07;14:00;71,13;Alimentação;PIX;Rio de Janeiro;RJ
+988;C001164;2025-04-18;11:00;134,97;Vestuário;PIX;São Paulo;SP
+989;C000721;2025-10-26;10:00;136,14;Alimentação;PIX;Belo Horizonte;MG
+990;C000022;2025-05-13;19:00;74,95;Alimentação;Boleto;São Paulo;SP
+991;C000001;2025-06-22;20:00;207,68;Lazer;PIX;Teresina;PI
+992;C060140;2025-01-22;03:00;105,19;Alimentação;Crédito;São Paulo;SP
+993;C000187;2025-06-20;11:00;49,30;Alimentação;Crédito;São Paulo;SP
+994;C011273;2025-06-06;09:00;256,36;Vestuário;Crédito;Salvador;BA
+995;C034194;2025-10-10;14:00;44,31;Lazer;Débito;São Paulo;SP
+996;C000062;2025-05-28;15:00;81,76;Vestuário;PIX;São Paulo;SP
+997;C000001;2025-06-12;20:00;267,56;Vestuário;PIX;São Paulo;SP
+998;C000299;2025-08-30;13:00;1645,91;Eletrônicos;PIX;Aracaju;SE
+999;C000004;2025-08-05;11:00;103,53;Vestuário;Boleto;Londrina;PR
+1000;C000049;2025-03-21;14:00;300,15;Saúde;Crédito;São Paulo;SP

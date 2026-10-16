@@ -1,0 +1,15 @@
+Data/hora           : 16/10/2026 15:52:27
+Processador         : AMD Ryzen 5 5600GT with Radeon Graphics
+                      CPUs lógicas: 12 | Núcleos físicos: 6 | SMT: sim
+                        Núcleo 0 -> CPUs [0, 1]
+                        Núcleo 1 -> CPUs [2, 3]
+                        Núcleo 2 -> CPUs [4, 5]
+                        Núcleo 3 -> CPUs [6, 7]
+                        Núcleo 4 -> CPUs [8, 9]
+                        Núcleo 5 -> CPUs [10, 11]
+Sistema operacional : Windows 11 10.0 (amd64)
+JVM                 : OpenJDK 64-Bit Server VM 21.0.12.1 (Eclipse Adoptium)
+Heap máximo (-Xmx)  : 10,7 GB
+Coletor de lixo     : PS MarkSweep, PS Scavenge
+Biblioteca afinidade: OpenHFT WindowsJNAAffinity (máscara do processo: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11})
+Argumentos da JVM   : -Xmx12g -XX:+UseParallelGC -Dstdout.encoding=UTF-8 -Dfile.encoding=UTF-8
